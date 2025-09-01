@@ -14,12 +14,12 @@ async def main():
         await page.goto("https://www.worldometers.info/world-population/population-by-country/")
         
         #Extraer informacion
-        titulo = await page.title()
-        print ("El titulo es :", titulo)
+        # titulo = await page.title()
+        # print ("El titulo es :", titulo)
         
         # elemento = await page.text_content("p")
         # print("el elemento es :", elemento)
-        
+
         #obtenemos los encabezados de la tabla
         encabezados = await page.locator("table.datatable thead tr th").all_inner_texts()
         

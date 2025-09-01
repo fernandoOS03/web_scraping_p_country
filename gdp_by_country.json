@@ -1,0 +1,5434 @@
+[
+  {
+    "#": "1",
+    "Country": "United States",
+    "GDP (nominal, 2023)": "$27,720,700,000,000",
+    "GDP (abbrev.)": "27.721 trillion",
+    "GDP Growth": "2.89%",
+    "Population 2023": "343,477,335",
+    "GDP per capita": "$80,706",
+    "Share of World GDP": "26.11%"
+  },
+  {
+    "#": "2",
+    "Country": "China",
+    "GDP (nominal, 2023)": "$17,794,800,000,000",
+    "GDP (abbrev.)": "17.795 trillion",
+    "GDP Growth": "5.25%",
+    "Population 2023": "1,422,584,933",
+    "GDP per capita": "$12,509",
+    "Share of World GDP": "16.76%"
+  },
+  {
+    "#": "3",
+    "Country": "Germany",
+    "GDP (nominal, 2023)": "$4,525,700,000,000",
+    "GDP (abbrev.)": "4.526 trillion",
+    "GDP Growth": "−0.27%",
+    "Population 2023": "84,548,231",
+    "GDP per capita": "$53,528",
+    "Share of World GDP": "4.26%"
+  },
+  {
+    "#": "4",
+    "Country": "Japan",
+    "GDP (nominal, 2023)": "$4,204,490,000,000",
+    "GDP (abbrev.)": "4.204 trillion",
+    "GDP Growth": "1.68%",
+    "Population 2023": "124,370,947",
+    "GDP per capita": "$33,806",
+    "Share of World GDP": "3.96%"
+  },
+  {
+    "#": "5",
+    "Country": "India",
+    "GDP (nominal, 2023)": "$3,567,550,000,000",
+    "GDP (abbrev.)": "3.568 trillion",
+    "GDP Growth": "8.15%",
+    "Population 2023": "1,438,069,596",
+    "GDP per capita": "$2,481",
+    "Share of World GDP": "3.36%"
+  },
+  {
+    "#": "6",
+    "Country": "United Kingdom",
+    "GDP (nominal, 2023)": "$3,380,850,000,000",
+    "GDP (abbrev.)": "3.381 trillion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "68,682,962",
+    "GDP per capita": "$49,224",
+    "Share of World GDP": "3.18%"
+  },
+  {
+    "#": "7",
+    "Country": "France",
+    "GDP (nominal, 2023)": "$3,051,830,000,000",
+    "GDP (abbrev.)": "3.052 trillion",
+    "GDP Growth": "0.94%",
+    "Population 2023": "66,438,822",
+    "GDP per capita": "$45,934",
+    "Share of World GDP": "2.87%"
+  },
+  {
+    "#": "8",
+    "Country": "Italy",
+    "GDP (nominal, 2023)": "$2,300,940,000,000",
+    "GDP (abbrev.)": "2.301 trillion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "59,499,453",
+    "GDP per capita": "$38,672",
+    "Share of World GDP": "2.17%"
+  },
+  {
+    "#": "9",
+    "Country": "Brazil",
+    "GDP (nominal, 2023)": "$2,173,670,000,000",
+    "GDP (abbrev.)": "2.174 trillion",
+    "GDP Growth": "2.91%",
+    "Population 2023": "211,140,729",
+    "GDP per capita": "$10,295",
+    "Share of World GDP": "2.05%"
+  },
+  {
+    "#": "10",
+    "Country": "Canada",
+    "GDP (nominal, 2023)": "$2,142,470,000,000",
+    "GDP (abbrev.)": "2.142 trillion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "39,299,105",
+    "GDP per capita": "$54,517",
+    "Share of World GDP": "2.02%"
+  },
+  {
+    "#": "11",
+    "Country": "Russia",
+    "GDP (nominal, 2023)": "$2,021,420,000,000",
+    "GDP (abbrev.)": "2.021 trillion",
+    "GDP Growth": "3.6%",
+    "Population 2023": "145,440,500",
+    "GDP per capita": "$13,899",
+    "Share of World GDP": "1.90%"
+  },
+  {
+    "#": "12",
+    "Country": "Mexico",
+    "GDP (nominal, 2023)": "$1,789,110,000,000",
+    "GDP (abbrev.)": "1.789 trillion",
+    "GDP Growth": "3.2%",
+    "Population 2023": "129,739,759",
+    "GDP per capita": "$13,790",
+    "Share of World GDP": "1.69%"
+  },
+  {
+    "#": "13",
+    "Country": "Australia",
+    "GDP (nominal, 2023)": "$1,728,060,000,000",
+    "GDP (abbrev.)": "1.728 trillion",
+    "GDP Growth": "3.44%",
+    "Population 2023": "26,451,124",
+    "GDP per capita": "$65,330",
+    "Share of World GDP": "1.63%"
+  },
+  {
+    "#": "14",
+    "Country": "South Korea",
+    "GDP (nominal, 2023)": "$1,712,790,000,000",
+    "GDP (abbrev.)": "1.713 trillion",
+    "GDP Growth": "1.36%",
+    "Population 2023": "51,748,739",
+    "GDP per capita": "$33,098",
+    "Share of World GDP": "1.61%"
+  },
+  {
+    "#": "15",
+    "Country": "Spain",
+    "GDP (nominal, 2023)": "$1,620,090,000,000",
+    "GDP (abbrev.)": "1.62 trillion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "47,911,579",
+    "GDP per capita": "$33,814",
+    "Share of World GDP": "1.53%"
+  },
+  {
+    "#": "16",
+    "Country": "Indonesia",
+    "GDP (nominal, 2023)": "$1,371,170,000,000",
+    "GDP (abbrev.)": "1.371 trillion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "281,190,067",
+    "GDP per capita": "$4,876",
+    "Share of World GDP": "1.29%"
+  },
+  {
+    "#": "17",
+    "Country": "Netherlands",
+    "GDP (nominal, 2023)": "$1,154,360,000,000",
+    "GDP (abbrev.)": "1.154 trillion",
+    "GDP Growth": "0.07%",
+    "Population 2023": "18,092,524",
+    "GDP per capita": "$63,803",
+    "Share of World GDP": "1.09%"
+  },
+  {
+    "#": "18",
+    "Country": "Turkey",
+    "GDP (nominal, 2023)": "$1,118,250,000,000",
+    "GDP (abbrev.)": "1.118 trillion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "87,270,501",
+    "GDP per capita": "$12,814",
+    "Share of World GDP": "1.05%"
+  },
+  {
+    "#": "19",
+    "Country": "Saudi Arabia",
+    "GDP (nominal, 2023)": "$1,067,580,000,000",
+    "GDP (abbrev.)": "1.068 trillion",
+    "GDP Growth": "−0.76%",
+    "Population 2023": "33,264,292",
+    "GDP per capita": "$32,094",
+    "Share of World GDP": "1.01%"
+  },
+  {
+    "#": "20",
+    "Country": "Switzerland",
+    "GDP (nominal, 2023)": "$884,940,000,000",
+    "GDP (abbrev.)": "884.94 billion",
+    "GDP Growth": "0.72%",
+    "Population 2023": "8,870,561",
+    "GDP per capita": "$99,761",
+    "Share of World GDP": "0.83%"
+  },
+  {
+    "#": "21",
+    "Country": "Poland",
+    "GDP (nominal, 2023)": "$809,201,000,000",
+    "GDP (abbrev.)": "809.201 billion",
+    "GDP Growth": "0.14%",
+    "Population 2023": "38,762,844",
+    "GDP per capita": "$20,876",
+    "Share of World GDP": "0.76%"
+  },
+  {
+    "#": "22",
+    "Country": "Argentina",
+    "GDP (nominal, 2023)": "$646,075,000,000",
+    "GDP (abbrev.)": "646.075 billion",
+    "GDP Growth": "−1.61%",
+    "Population 2023": "45,538,401",
+    "GDP per capita": "$14,187",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "23",
+    "Country": "Belgium",
+    "GDP (nominal, 2023)": "$644,783,000,000",
+    "GDP (abbrev.)": "644.783 billion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "11,712,893",
+    "GDP per capita": "$55,049",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "24",
+    "Country": "Sweden",
+    "GDP (nominal, 2023)": "$584,960,000,000",
+    "GDP (abbrev.)": "584.96 billion",
+    "GDP Growth": "−0.31%",
+    "Population 2023": "10,551,494",
+    "GDP per capita": "$55,439",
+    "Share of World GDP": "0.55%"
+  },
+  {
+    "#": "25",
+    "Country": "Ireland",
+    "GDP (nominal, 2023)": "$551,395,000,000",
+    "GDP (abbrev.)": "551.395 billion",
+    "GDP Growth": "−5.53%",
+    "Population 2023": "5,196,630",
+    "GDP per capita": "$106,106",
+    "Share of World GDP": "0.52%"
+  },
+  {
+    "#": "26",
+    "Country": "Thailand",
+    "GDP (nominal, 2023)": "$514,969,000,000",
+    "GDP (abbrev.)": "514.969 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "71,702,435",
+    "GDP per capita": "$7,182",
+    "Share of World GDP": "0.49%"
+  },
+  {
+    "#": "27",
+    "Country": "United Arab Emirates",
+    "GDP (nominal, 2023)": "$514,130,000,000",
+    "GDP (abbrev.)": "514.13 billion",
+    "GDP Growth": "3.62%",
+    "Population 2023": "10,642,081",
+    "GDP per capita": "$48,311",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "28",
+    "Country": "Israel",
+    "GDP (nominal, 2023)": "$513,611,000,000",
+    "GDP (abbrev.)": "513.611 billion",
+    "GDP Growth": "2.42%",
+    "Population 2023": "9,256,314",
+    "GDP per capita": "$55,488",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "29",
+    "Country": "Austria",
+    "GDP (nominal, 2023)": "$511,685,000,000",
+    "GDP (abbrev.)": "511.685 billion",
+    "GDP Growth": "−0.95%",
+    "Population 2023": "9,130,429",
+    "GDP per capita": "$56,042",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "30",
+    "Country": "Singapore",
+    "GDP (nominal, 2023)": "$501,428,000,000",
+    "GDP (abbrev.)": "501.428 billion",
+    "GDP Growth": "1.07%",
+    "Population 2023": "5,789,090",
+    "GDP per capita": "$86,616",
+    "Share of World GDP": "0.47%"
+  },
+  {
+    "#": "31",
+    "Country": "Norway",
+    "GDP (nominal, 2023)": "$485,311,000,000",
+    "GDP (abbrev.)": "485.311 billion",
+    "GDP Growth": "0.48%",
+    "Population 2023": "5,519,167",
+    "GDP per capita": "$87,932",
+    "Share of World GDP": "0.46%"
+  },
+  {
+    "#": "32",
+    "Country": "Bangladesh",
+    "GDP (nominal, 2023)": "$437,415,000,000",
+    "GDP (abbrev.)": "437.415 billion",
+    "GDP Growth": "5.78%",
+    "Population 2023": "171,466,990",
+    "GDP per capita": "$2,551",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "33",
+    "Country": "Philippines",
+    "GDP (nominal, 2023)": "$437,146,000,000",
+    "GDP (abbrev.)": "437.146 billion",
+    "GDP Growth": "5.55%",
+    "Population 2023": "114,891,199",
+    "GDP per capita": "$3,805",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "34",
+    "Country": "Vietnam",
+    "GDP (nominal, 2023)": "$429,717,000,000",
+    "GDP (abbrev.)": "429.717 billion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "100,352,192",
+    "GDP per capita": "$4,282",
+    "Share of World GDP": "0.40%"
+  },
+  {
+    "#": "35",
+    "Country": "Denmark",
+    "GDP (nominal, 2023)": "$407,092,000,000",
+    "GDP (abbrev.)": "407.092 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "5,948,136",
+    "GDP per capita": "$68,440",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "36",
+    "Country": "Iran",
+    "GDP (nominal, 2023)": "$404,626,000,000",
+    "GDP (abbrev.)": "404.626 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "90,608,707",
+    "GDP per capita": "$4,466",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "37",
+    "Country": "Malaysia",
+    "GDP (nominal, 2023)": "$399,705,000,000",
+    "GDP (abbrev.)": "399.705 billion",
+    "GDP Growth": "3.56%",
+    "Population 2023": "35,126,298",
+    "GDP per capita": "$11,379",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "38",
+    "Country": "Egypt",
+    "GDP (nominal, 2023)": "$396,002,000,000",
+    "GDP (abbrev.)": "396.002 billion",
+    "GDP Growth": "3.76%",
+    "Population 2023": "114,535,772",
+    "GDP per capita": "$3,457",
+    "Share of World GDP": "0.37%"
+  },
+  {
+    "#": "39",
+    "Country": "Hong Kong",
+    "GDP (nominal, 2023)": "$380,812,000,000",
+    "GDP (abbrev.)": "380.812 billion",
+    "GDP Growth": "3.28%",
+    "Population 2023": "7,442,734",
+    "GDP per capita": "$51,166",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "40",
+    "Country": "South Africa",
+    "GDP (nominal, 2023)": "$380,699,000,000",
+    "GDP (abbrev.)": "380.699 billion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "63,212,384",
+    "GDP per capita": "$6,023",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "41",
+    "Country": "Nigeria",
+    "GDP (nominal, 2023)": "$363,846,000,000",
+    "GDP (abbrev.)": "363.846 billion",
+    "GDP Growth": "2.86%",
+    "Population 2023": "227,882,945",
+    "GDP per capita": "$1,597",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "42",
+    "Country": "Colombia",
+    "GDP (nominal, 2023)": "$363,494,000,000",
+    "GDP (abbrev.)": "363.494 billion",
+    "GDP Growth": "0.61%",
+    "Population 2023": "52,321,152",
+    "GDP per capita": "$6,947",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "43",
+    "Country": "Romania",
+    "GDP (nominal, 2023)": "$350,776,000,000",
+    "GDP (abbrev.)": "350.776 billion",
+    "GDP Growth": "2.4%",
+    "Population 2023": "19,118,479",
+    "GDP per capita": "$18,347",
+    "Share of World GDP": "0.33%"
+  },
+  {
+    "#": "44",
+    "Country": "Czech Republic (Czechia)",
+    "GDP (nominal, 2023)": "$343,208,000,000",
+    "GDP (abbrev.)": "343.208 billion",
+    "GDP Growth": "−0.09%",
+    "Population 2023": "10,809,716",
+    "GDP per capita": "$31,750",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "45",
+    "Country": "Pakistan",
+    "GDP (nominal, 2023)": "$337,912,000,000",
+    "GDP (abbrev.)": "337.912 billion",
+    "GDP Growth": "−0.04%",
+    "Population 2023": "247,504,495",
+    "GDP per capita": "$1,365",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "46",
+    "Country": "Chile",
+    "GDP (nominal, 2023)": "$335,533,000,000",
+    "GDP (abbrev.)": "335.533 billion",
+    "GDP Growth": "0.22%",
+    "Population 2023": "19,658,835",
+    "GDP per capita": "$17,068",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "47",
+    "Country": "Finland",
+    "GDP (nominal, 2023)": "$295,532,000,000",
+    "GDP (abbrev.)": "295.532 billion",
+    "GDP Growth": "−1.16%",
+    "Population 2023": "5,601,185",
+    "GDP per capita": "$52,762",
+    "Share of World GDP": "0.28%"
+  },
+  {
+    "#": "48",
+    "Country": "Portugal",
+    "GDP (nominal, 2023)": "$289,114,000,000",
+    "GDP (abbrev.)": "289.114 billion",
+    "GDP Growth": "2.53%",
+    "Population 2023": "10,430,738",
+    "GDP per capita": "$27,718",
+    "Share of World GDP": "0.27%"
+  },
+  {
+    "#": "49",
+    "Country": "Peru",
+    "GDP (nominal, 2023)": "$267,603,000,000",
+    "GDP (abbrev.)": "267.603 billion",
+    "GDP Growth": "−0.55%",
+    "Population 2023": "33,845,617",
+    "GDP per capita": "$7,907",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "50",
+    "Country": "Kazakhstan",
+    "GDP (nominal, 2023)": "$262,642,000,000",
+    "GDP (abbrev.)": "262.642 billion",
+    "GDP Growth": "5.1%",
+    "Population 2023": "20,330,104",
+    "GDP per capita": "$12,919",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "51",
+    "Country": "New Zealand",
+    "GDP (nominal, 2023)": "$252,176,000,000",
+    "GDP (abbrev.)": "252.176 billion",
+    "GDP Growth": "0.73%",
+    "Population 2023": "5,172,836",
+    "GDP per capita": "$48,750",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "52",
+    "Country": "Iraq",
+    "GDP (nominal, 2023)": "$250,843,000,000",
+    "GDP (abbrev.)": "250.843 billion",
+    "GDP Growth": "−2.94%",
+    "Population 2023": "45,074,049",
+    "GDP per capita": "$5,565",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "53",
+    "Country": "Algeria",
+    "GDP (nominal, 2023)": "$247,626,000,000",
+    "GDP (abbrev.)": "247.626 billion",
+    "GDP Growth": "4.1%",
+    "Population 2023": "46,164,219",
+    "GDP per capita": "$5,364",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "54",
+    "Country": "Greece",
+    "GDP (nominal, 2023)": "$243,498,000,000",
+    "GDP (abbrev.)": "243.498 billion",
+    "GDP Growth": "2.33%",
+    "Population 2023": "10,242,908",
+    "GDP per capita": "$23,772",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "55",
+    "Country": "Qatar",
+    "GDP (nominal, 2023)": "$213,003,000,000",
+    "GDP (abbrev.)": "213.003 billion",
+    "GDP Growth": "1.19%",
+    "Population 2023": "2,979,082",
+    "GDP per capita": "$71,500",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "56",
+    "Country": "Hungary",
+    "GDP (nominal, 2023)": "$212,389,000,000",
+    "GDP (abbrev.)": "212.389 billion",
+    "GDP Growth": "−0.91%",
+    "Population 2023": "9,686,463",
+    "GDP per capita": "$21,926",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "57",
+    "Country": "Ukraine",
+    "GDP (nominal, 2023)": "$178,757,000,000",
+    "GDP (abbrev.)": "178.757 billion",
+    "GDP Growth": "5.32%",
+    "Population 2023": "37,732,836",
+    "GDP per capita": "$4,737",
+    "Share of World GDP": "0.17%"
+  },
+  {
+    "#": "58",
+    "Country": "Kuwait",
+    "GDP (nominal, 2023)": "$163,705,000,000",
+    "GDP (abbrev.)": "163.705 billion",
+    "GDP Growth": "−3.64%",
+    "Population 2023": "4,838,782",
+    "GDP per capita": "$33,832",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "59",
+    "Country": "Ethiopia",
+    "GDP (nominal, 2023)": "$163,698,000,000",
+    "GDP (abbrev.)": "163.698 billion",
+    "GDP Growth": "6.5%",
+    "Population 2023": "128,691,692",
+    "GDP per capita": "$1,272",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "60",
+    "Country": "Morocco",
+    "GDP (nominal, 2023)": "$144,417,000,000",
+    "GDP (abbrev.)": "144.417 billion",
+    "GDP Growth": "3.4%",
+    "Population 2023": "37,712,505",
+    "GDP per capita": "$3,829",
+    "Share of World GDP": "0.14%"
+  },
+  {
+    "#": "61",
+    "Country": "Slovakia",
+    "GDP (nominal, 2023)": "$132,908,000,000",
+    "GDP (abbrev.)": "132.908 billion",
+    "GDP Growth": "1.38%",
+    "Population 2023": "5,518,055",
+    "GDP per capita": "$24,086",
+    "Share of World GDP": "0.13%"
+  },
+  {
+    "#": "62",
+    "Country": "Dominican Republic",
+    "GDP (nominal, 2023)": "$121,444,000,000",
+    "GDP (abbrev.)": "121.444 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "11,331,265",
+    "GDP per capita": "$10,718",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "63",
+    "Country": "Ecuador",
+    "GDP (nominal, 2023)": "$118,845,000,000",
+    "GDP (abbrev.)": "118.845 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "17,980,083",
+    "GDP per capita": "$6,610",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "64",
+    "Country": "Sudan",
+    "GDP (nominal, 2023)": "$109,266,000,000",
+    "GDP (abbrev.)": "109.266 billion",
+    "GDP Growth": "−20.11%",
+    "Population 2023": "50,042,791",
+    "GDP per capita": "$2,183",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "65",
+    "Country": "Oman",
+    "GDP (nominal, 2023)": "$108,811,000,000",
+    "GDP (abbrev.)": "108.811 billion",
+    "GDP Growth": "1.31%",
+    "Population 2023": "5,049,269",
+    "GDP per capita": "$21,550",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "66",
+    "Country": "Kenya",
+    "GDP (nominal, 2023)": "$108,039,000,000",
+    "GDP (abbrev.)": "108.039 billion",
+    "GDP Growth": "5.56%",
+    "Population 2023": "55,339,003",
+    "GDP per capita": "$1,952",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "67",
+    "Country": "Guatemala",
+    "GDP (nominal, 2023)": "$104,450,000,000",
+    "GDP (abbrev.)": "104.45 billion",
+    "GDP Growth": "3.53%",
+    "Population 2023": "18,124,838",
+    "GDP per capita": "$5,763",
+    "Share of World GDP": "0.098%"
+  },
+  {
+    "#": "68",
+    "Country": "Bulgaria",
+    "GDP (nominal, 2023)": "$102,408,000,000",
+    "GDP (abbrev.)": "102.408 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "6,795,803",
+    "GDP per capita": "$15,069",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "69",
+    "Country": "Uzbekistan",
+    "GDP (nominal, 2023)": "$101,592,000,000",
+    "GDP (abbrev.)": "101.592 billion",
+    "GDP Growth": "6.29%",
+    "Population 2023": "35,652,307",
+    "GDP per capita": "$2,850",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "70",
+    "Country": "Costa Rica",
+    "GDP (nominal, 2023)": "$86,497,941,439",
+    "GDP (abbrev.)": "86.498 billion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "5,105,525",
+    "GDP per capita": "$16,942",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "71",
+    "Country": "Luxembourg",
+    "GDP (nominal, 2023)": "$85,755,006,124",
+    "GDP (abbrev.)": "85.755 billion",
+    "GDP Growth": "−1.1%",
+    "Population 2023": "665,098",
+    "GDP per capita": "$128,936",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "72",
+    "Country": "Angola",
+    "GDP (nominal, 2023)": "$84,824,654,482",
+    "GDP (abbrev.)": "84.825 billion",
+    "GDP Growth": "1%",
+    "Population 2023": "36,749,906",
+    "GDP per capita": "$2,308",
+    "Share of World GDP": "0.080%"
+  },
+  {
+    "#": "73",
+    "Country": "Croatia",
+    "GDP (nominal, 2023)": "$84,393,795,502",
+    "GDP (abbrev.)": "84.394 billion",
+    "GDP Growth": "3.3%",
+    "Population 2023": "3,896,023",
+    "GDP per capita": "$21,662",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "74",
+    "Country": "Sri Lanka",
+    "GDP (nominal, 2023)": "$84,356,863,744",
+    "GDP (abbrev.)": "84.357 billion",
+    "GDP Growth": "−2.3%",
+    "Population 2023": "22,971,617",
+    "GDP per capita": "$3,672",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "75",
+    "Country": "Panama",
+    "GDP (nominal, 2023)": "$83,318,176,900",
+    "GDP (abbrev.)": "83.318 billion",
+    "GDP Growth": "7.4%",
+    "Population 2023": "4,458,759",
+    "GDP per capita": "$18,686",
+    "Share of World GDP": "0.078%"
+  },
+  {
+    "#": "76",
+    "Country": "Serbia",
+    "GDP (nominal, 2023)": "$81,342,660,752",
+    "GDP (abbrev.)": "81.343 billion",
+    "GDP Growth": "3.85%",
+    "Population 2023": "6,773,201",
+    "GDP per capita": "$12,009",
+    "Share of World GDP": "0.077%"
+  },
+  {
+    "#": "77",
+    "Country": "Lithuania",
+    "GDP (nominal, 2023)": "$79,789,877,416",
+    "GDP (abbrev.)": "79.79 billion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "2,854,099",
+    "GDP per capita": "$27,956",
+    "Share of World GDP": "0.075%"
+  },
+  {
+    "#": "78",
+    "Country": "Tanzania",
+    "GDP (nominal, 2023)": "$79,062,403,821",
+    "GDP (abbrev.)": "79.062 billion",
+    "GDP Growth": "5.07%",
+    "Population 2023": "66,617,606",
+    "GDP per capita": "$1,187",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "79",
+    "Country": "Côte d'Ivoire",
+    "GDP (nominal, 2023)": "$78,875,489,245",
+    "GDP (abbrev.)": "78.875 billion",
+    "GDP Growth": "6.2%",
+    "Population 2023": "31,165,654",
+    "GDP per capita": "$2,531",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "80",
+    "Country": "Uruguay",
+    "GDP (nominal, 2023)": "$77,240,830,877",
+    "GDP (abbrev.)": "77.241 billion",
+    "GDP Growth": "0.37%",
+    "Population 2023": "3,388,081",
+    "GDP per capita": "$22,798",
+    "Share of World GDP": "0.073%"
+  },
+  {
+    "#": "81",
+    "Country": "Ghana",
+    "GDP (nominal, 2023)": "$76,370,396,722",
+    "GDP (abbrev.)": "76.37 billion",
+    "GDP Growth": "2.94%",
+    "Population 2023": "33,787,914",
+    "GDP per capita": "$2,260",
+    "Share of World GDP": "0.072%"
+  },
+  {
+    "#": "82",
+    "Country": "Azerbaijan",
+    "GDP (nominal, 2023)": "$72,356,176,471",
+    "GDP (abbrev.)": "72.356 billion",
+    "GDP Growth": "1.12%",
+    "Population 2023": "10,318,207",
+    "GDP per capita": "$7,012",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "83",
+    "Country": "Belarus",
+    "GDP (nominal, 2023)": "$71,857,382,746",
+    "GDP (abbrev.)": "71.857 billion",
+    "GDP Growth": "3.89%",
+    "Population 2023": "9,115,680",
+    "GDP per capita": "$7,883",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "84",
+    "Country": "Slovenia",
+    "GDP (nominal, 2023)": "$69,148,468,417",
+    "GDP (abbrev.)": "69.148 billion",
+    "GDP Growth": "2.11%",
+    "Population 2023": "2,118,396",
+    "GDP per capita": "$32,642",
+    "Share of World GDP": "0.065%"
+  },
+  {
+    "#": "85",
+    "Country": "Myanmar",
+    "GDP (nominal, 2023)": "$66,757,619,000",
+    "GDP (abbrev.)": "66.758 billion",
+    "GDP Growth": "0.96%",
+    "Population 2023": "54,133,798",
+    "GDP per capita": "$1,233",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "86",
+    "Country": "DR Congo",
+    "GDP (nominal, 2023)": "$66,383,287,003",
+    "GDP (abbrev.)": "66.383 billion",
+    "GDP Growth": "8.56%",
+    "Population 2023": "105,789,731",
+    "GDP per capita": "$628",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "87",
+    "Country": "Turkmenistan",
+    "GDP (nominal, 2023)": "$60,628,857,143",
+    "GDP (abbrev.)": "60.629 billion",
+    "GDP Growth": "6.3%",
+    "Population 2023": "7,364,438",
+    "GDP per capita": "$8,233",
+    "Share of World GDP": "0.057%"
+  },
+  {
+    "#": "88",
+    "Country": "Jordan",
+    "GDP (nominal, 2023)": "$50,967,475,352",
+    "GDP (abbrev.)": "50.967 billion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "11,439,213",
+    "GDP per capita": "$4,456",
+    "Share of World GDP": "0.048%"
+  },
+  {
+    "#": "89",
+    "Country": "Cameroon",
+    "GDP (nominal, 2023)": "$49,279,410,983",
+    "GDP (abbrev.)": "49.279 billion",
+    "GDP Growth": "3.25%",
+    "Population 2023": "28,372,687",
+    "GDP per capita": "$1,737",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "90",
+    "Country": "Uganda",
+    "GDP (nominal, 2023)": "$48,768,955,863",
+    "GDP (abbrev.)": "48.769 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "48,656,601",
+    "GDP per capita": "$1,002",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "91",
+    "Country": "Tunisia",
+    "GDP (nominal, 2023)": "$48,529,595,417",
+    "GDP (abbrev.)": "48.53 billion",
+    "GDP Growth": "0.04%",
+    "Population 2023": "12,200,431",
+    "GDP per capita": "$3,978",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "92",
+    "Country": "Bahrain",
+    "GDP (nominal, 2023)": "$46,079,867,021",
+    "GDP (abbrev.)": "46.08 billion",
+    "GDP Growth": "2.98%",
+    "Population 2023": "1,569,666",
+    "GDP per capita": "$29,356",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "93",
+    "Country": "Macao",
+    "GDP (nominal, 2023)": "$45,803,067,940",
+    "GDP (abbrev.)": "45.803 billion",
+    "GDP Growth": "75.06%",
+    "Population 2023": "713,912",
+    "GDP per capita": "$64,158",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "94",
+    "Country": "Bolivia",
+    "GDP (nominal, 2023)": "$45,135,398,009",
+    "GDP (abbrev.)": "45.135 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "12,244,159",
+    "GDP per capita": "$3,686",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "95",
+    "Country": "Libya",
+    "GDP (nominal, 2023)": "$45,096,462,972",
+    "GDP (abbrev.)": "45.096 billion",
+    "GDP Growth": "10.16%",
+    "Population 2023": "7,305,659",
+    "GDP per capita": "$6,173",
+    "Share of World GDP": "0.042%"
+  },
+  {
+    "#": "96",
+    "Country": "Paraguay",
+    "GDP (nominal, 2023)": "$42,956,263,544",
+    "GDP (abbrev.)": "42.956 billion",
+    "GDP Growth": "4.71%",
+    "Population 2023": "6,844,146",
+    "GDP per capita": "$6,276",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "97",
+    "Country": "Cambodia",
+    "GDP (nominal, 2023)": "$42,335,646,896",
+    "GDP (abbrev.)": "42.336 billion",
+    "GDP Growth": "4.96%",
+    "Population 2023": "17,423,880",
+    "GDP per capita": "$2,430",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "98",
+    "Country": "Latvia",
+    "GDP (nominal, 2023)": "$42,247,850,065",
+    "GDP (abbrev.)": "42.248 billion",
+    "GDP Growth": "1.71%",
+    "Population 2023": "1,882,396",
+    "GDP per capita": "$22,444",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "99",
+    "Country": "Estonia",
+    "GDP (nominal, 2023)": "$41,291,245,222",
+    "GDP (abbrev.)": "41.291 billion",
+    "GDP Growth": "−3.02%",
+    "Population 2023": "1,367,196",
+    "GDP per capita": "$30,201",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "100",
+    "Country": "Nepal",
+    "GDP (nominal, 2023)": "$40,908,073,367",
+    "GDP (abbrev.)": "40.908 billion",
+    "GDP Growth": "1.95%",
+    "Population 2023": "29,694,614",
+    "GDP per capita": "$1,378",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "101",
+    "Country": "Zimbabwe",
+    "GDP (nominal, 2023)": "$35,231,367,886",
+    "GDP (abbrev.)": "35.231 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "16,340,822",
+    "GDP per capita": "$2,156",
+    "Share of World GDP": "0.033%"
+  },
+  {
+    "#": "102",
+    "Country": "Honduras",
+    "GDP (nominal, 2023)": "$34,400,509,852",
+    "GDP (abbrev.)": "34.401 billion",
+    "GDP Growth": "3.58%",
+    "Population 2023": "10,644,851",
+    "GDP per capita": "$3,232",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "103",
+    "Country": "El Salvador",
+    "GDP (nominal, 2023)": "$34,015,620,000",
+    "GDP (abbrev.)": "34.016 billion",
+    "GDP Growth": "3.51%",
+    "Population 2023": "6,309,624",
+    "GDP per capita": "$5,391",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "104",
+    "Country": "Cyprus",
+    "GDP (nominal, 2023)": "$33,886,930,712",
+    "GDP (abbrev.)": "33.887 billion",
+    "GDP Growth": "2.61%",
+    "Population 2023": "1,344,976",
+    "GDP per capita": "$25,195",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "105",
+    "Country": "Iceland",
+    "GDP (nominal, 2023)": "$31,325,116,556",
+    "GDP (abbrev.)": "31.325 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "387,558",
+    "GDP per capita": "$80,827",
+    "Share of World GDP": "0.030%"
+  },
+  {
+    "#": "106",
+    "Country": "Senegal",
+    "GDP (nominal, 2023)": "$30,848,333,084",
+    "GDP (abbrev.)": "30.848 billion",
+    "GDP Growth": "4.58%",
+    "Population 2023": "18,077,573",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "107",
+    "Country": "Georgia",
+    "GDP (nominal, 2023)": "$30,777,833,585",
+    "GDP (abbrev.)": "30.778 billion",
+    "GDP Growth": "7.83%",
+    "Population 2023": "3,807,492",
+    "GDP per capita": "$8,083",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "108",
+    "Country": "Papua New Guinea",
+    "GDP (nominal, 2023)": "$30,729,242,919",
+    "GDP (abbrev.)": "30.729 billion",
+    "GDP Growth": "3.04%",
+    "Population 2023": "10,389,635",
+    "GDP per capita": "$2,958",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "109",
+    "Country": "Zambia",
+    "GDP (nominal, 2023)": "$27,577,956,471",
+    "GDP (abbrev.)": "27.578 billion",
+    "GDP Growth": "5.37%",
+    "Population 2023": "20,723,965",
+    "GDP per capita": "$1,331",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "110",
+    "Country": "Bosnia and Herzegovina",
+    "GDP (nominal, 2023)": "$27,514,782,476",
+    "GDP (abbrev.)": "27.515 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "3,185,073",
+    "GDP per capita": "$8,639",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "111",
+    "Country": "Trinidad and Tobago",
+    "GDP (nominal, 2023)": "$27,372,285,698",
+    "GDP (abbrev.)": "27.372 billion",
+    "GDP Growth": "1.35%",
+    "Population 2023": "1,502,932",
+    "GDP per capita": "$18,213",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "112",
+    "Country": "Armenia",
+    "GDP (nominal, 2023)": "$24,085,749,592",
+    "GDP (abbrev.)": "24.086 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "2,943,393",
+    "GDP per capita": "$8,183",
+    "Share of World GDP": "0.023%"
+  },
+  {
+    "#": "113",
+    "Country": "Albania",
+    "GDP (nominal, 2023)": "$23,547,179,830",
+    "GDP (abbrev.)": "23.547 billion",
+    "GDP Growth": "3.94%",
+    "Population 2023": "2,811,655",
+    "GDP per capita": "$8,375",
+    "Share of World GDP": "0.022%"
+  },
+  {
+    "#": "114",
+    "Country": "Malta",
+    "GDP (nominal, 2023)": "$22,328,640,242",
+    "GDP (abbrev.)": "22.329 billion",
+    "GDP Growth": "7.5%",
+    "Population 2023": "532,956",
+    "GDP per capita": "$41,896",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "115",
+    "Country": "Guinea",
+    "GDP (nominal, 2023)": "$22,199,409,741",
+    "GDP (abbrev.)": "22.199 billion",
+    "GDP Growth": "6.74%",
+    "Population 2023": "14,405,468",
+    "GDP per capita": "$1,541",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "116",
+    "Country": "Mozambique",
+    "GDP (nominal, 2023)": "$20,954,220,984",
+    "GDP (abbrev.)": "20.954 billion",
+    "GDP Growth": "5.44%",
+    "Population 2023": "33,635,160",
+    "GDP per capita": "$623",
+    "Share of World GDP": "0.020%"
+  },
+  {
+    "#": "117",
+    "Country": "Mali",
+    "GDP (nominal, 2023)": "$20,661,794,596",
+    "GDP (abbrev.)": "20.662 billion",
+    "GDP Growth": "4.66%",
+    "Population 2023": "23,769,127",
+    "GDP per capita": "$869",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "118",
+    "Country": "Mongolia",
+    "GDP (nominal, 2023)": "$20,325,121,394",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "7.42%",
+    "Population 2023": "3,431,932",
+    "GDP per capita": "$5,922",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "119",
+    "Country": "Burkina Faso",
+    "GDP (nominal, 2023)": "$20,324,617,845",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "2.96%",
+    "Population 2023": "23,025,776",
+    "GDP per capita": "$883",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "120",
+    "Country": "Haiti",
+    "GDP (nominal, 2023)": "$19,850,829,758",
+    "GDP (abbrev.)": "19.851 billion",
+    "GDP Growth": "−1.86%",
+    "Population 2023": "11,637,398",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "121",
+    "Country": "Benin",
+    "GDP (nominal, 2023)": "$19,676,049,076",
+    "GDP (abbrev.)": "19.676 billion",
+    "GDP Growth": "6.35%",
+    "Population 2023": "14,111,034",
+    "GDP per capita": "$1,394",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "122",
+    "Country": "Jamaica",
+    "GDP (nominal, 2023)": "$19,423,355,409",
+    "GDP (abbrev.)": "19.423 billion",
+    "GDP Growth": "2.2%",
+    "Population 2023": "2,839,786",
+    "GDP per capita": "$6,840",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "123",
+    "Country": "Botswana",
+    "GDP (nominal, 2023)": "$19,396,084,498",
+    "GDP (abbrev.)": "19.396 billion",
+    "GDP Growth": "2.73%",
+    "Population 2023": "2,480,244",
+    "GDP per capita": "$7,820",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "124",
+    "Country": "Gabon",
+    "GDP (nominal, 2023)": "$19,388,402,542",
+    "GDP (abbrev.)": "19.388 billion",
+    "GDP Growth": "2.45%",
+    "Population 2023": "2,484,789",
+    "GDP per capita": "$7,803",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "125",
+    "Country": "Nicaragua",
+    "GDP (nominal, 2023)": "$17,829,218,219",
+    "GDP (abbrev.)": "17.829 billion",
+    "GDP Growth": "4.57%",
+    "Population 2023": "6,823,613",
+    "GDP per capita": "$2,613",
+    "Share of World GDP": "0.017%"
+  },
+  {
+    "#": "126",
+    "Country": "State of Palestine",
+    "GDP (nominal, 2023)": "$17,420,800,000",
+    "GDP (abbrev.)": "17.421 billion",
+    "GDP Growth": "−5.41%",
+    "Population 2023": "5,409,202",
+    "GDP per capita": "$3,221",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "127",
+    "Country": "Afghanistan",
+    "GDP (nominal, 2023)": "$17,233,051,620",
+    "GDP (abbrev.)": "17.233 billion",
+    "GDP Growth": "2.71%",
+    "Population 2023": "41,454,761",
+    "GDP per capita": "$416",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "128",
+    "Country": "Guyana",
+    "GDP (nominal, 2023)": "$17,159,509,565",
+    "GDP (abbrev.)": "17.16 billion",
+    "GDP Growth": "33.8%",
+    "Population 2023": "826,353",
+    "GDP per capita": "$20,765",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "129",
+    "Country": "Niger",
+    "GDP (nominal, 2023)": "$16,819,170,421",
+    "GDP (abbrev.)": "16.819 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "26,159,867",
+    "GDP per capita": "$643",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "130",
+    "Country": "Moldova",
+    "GDP (nominal, 2023)": "$16,539,436,547",
+    "GDP (abbrev.)": "16.539 billion",
+    "GDP Growth": "0.78%",
+    "Population 2023": "3,067,070",
+    "GDP per capita": "$5,393",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "131",
+    "Country": "Laos",
+    "GDP (nominal, 2023)": "$15,843,155,731",
+    "GDP (abbrev.)": "15.843 billion",
+    "GDP Growth": "3.75%",
+    "Population 2023": "7,664,993",
+    "GDP per capita": "$2,067",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "132",
+    "Country": "Madagascar",
+    "GDP (nominal, 2023)": "$15,790,113,247",
+    "GDP (abbrev.)": "15.79 billion",
+    "GDP Growth": "3.8%",
+    "Population 2023": "31,195,932",
+    "GDP per capita": "$506",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "133",
+    "Country": "North Macedonia",
+    "GDP (nominal, 2023)": "$15,763,621,848",
+    "GDP (abbrev.)": "15.764 billion",
+    "GDP Growth": "2.07%",
+    "Population 2023": "1,831,802",
+    "GDP per capita": "$8,606",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "134",
+    "Country": "Congo",
+    "GDP (nominal, 2023)": "$15,321,055,823",
+    "GDP (abbrev.)": "15.321 billion",
+    "GDP Growth": "1.91%",
+    "Population 2023": "6,182,885",
+    "GDP per capita": "$2,478",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "135",
+    "Country": "Brunei",
+    "GDP (nominal, 2023)": "$15,128,292,981",
+    "GDP (abbrev.)": "15.128 billion",
+    "GDP Growth": "1.41%",
+    "Population 2023": "458,949",
+    "GDP per capita": "$32,963",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "136",
+    "Country": "Mauritius",
+    "GDP (nominal, 2023)": "$14,644,524,819",
+    "GDP (abbrev.)": "14.645 billion",
+    "GDP Growth": "6.96%",
+    "Population 2023": "1,273,588",
+    "GDP per capita": "$11,499",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "137",
+    "Country": "Bahamas",
+    "GDP (nominal, 2023)": "$14,338,500,000",
+    "GDP (abbrev.)": "14.338 billion",
+    "GDP Growth": "2.64%",
+    "Population 2023": "399,440",
+    "GDP per capita": "$35,897",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "138",
+    "Country": "Rwanda",
+    "GDP (nominal, 2023)": "$14,097,768,472",
+    "GDP (abbrev.)": "14.098 billion",
+    "GDP Growth": "8.24%",
+    "Population 2023": "13,954,471",
+    "GDP per capita": "$1,010",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "139",
+    "Country": "Kyrgyzstan",
+    "GDP (nominal, 2023)": "$13,987,627,909",
+    "GDP (abbrev.)": "13.988 billion",
+    "GDP Growth": "6.15%",
+    "Population 2023": "7,073,516",
+    "GDP per capita": "$1,977",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "140",
+    "Country": "Chad",
+    "GDP (nominal, 2023)": "$13,149,325,362",
+    "GDP (abbrev.)": "13.149 billion",
+    "GDP Growth": "4.12%",
+    "Population 2023": "19,319,064",
+    "GDP per capita": "$681",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "141",
+    "Country": "Malawi",
+    "GDP (nominal, 2023)": "$12,712,150,082",
+    "GDP (abbrev.)": "12.712 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "21,104,482",
+    "GDP per capita": "$602",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "142",
+    "Country": "Namibia",
+    "GDP (nominal, 2023)": "$12,351,025,067",
+    "GDP (abbrev.)": "12.351 billion",
+    "GDP Growth": "4.16%",
+    "Population 2023": "2,963,095",
+    "GDP per capita": "$4,168",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "143",
+    "Country": "Equatorial Guinea",
+    "GDP (nominal, 2023)": "$12,337,550,584",
+    "GDP (abbrev.)": "12.338 billion",
+    "GDP Growth": "−5.09%",
+    "Population 2023": "1,847,549",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "144",
+    "Country": "Tajikistan",
+    "GDP (nominal, 2023)": "$12,060,602,009",
+    "GDP (abbrev.)": "12.061 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "10,389,799",
+    "GDP per capita": "$1,161",
+    "Share of World GDP": "0.011%"
+  },
+  {
+    "#": "145",
+    "Country": "Mauritania",
+    "GDP (nominal, 2023)": "$10,651,709,411",
+    "GDP (abbrev.)": "10.652 billion",
+    "GDP Growth": "6.51%",
+    "Population 2023": "5,022,441",
+    "GDP per capita": "$2,121",
+    "Share of World GDP": "0.010%"
+  },
+  {
+    "#": "146",
+    "Country": "Togo",
+    "GDP (nominal, 2023)": "$9,171,261,838",
+    "GDP (abbrev.)": "9.171 billion",
+    "GDP Growth": "6.41%",
+    "Population 2023": "9,304,337",
+    "GDP per capita": "$986",
+    "Share of World GDP": "0.0086%"
+  },
+  {
+    "#": "147",
+    "Country": "Montenegro",
+    "GDP (nominal, 2023)": "$7,530,593,375",
+    "GDP (abbrev.)": "7.531 billion",
+    "GDP Growth": "6.34%",
+    "Population 2023": "633,552",
+    "GDP per capita": "$11,886",
+    "Share of World GDP": "0.0071%"
+  },
+  {
+    "#": "148",
+    "Country": "Barbados",
+    "GDP (nominal, 2023)": "$6,720,733,200",
+    "GDP (abbrev.)": "6.721 billion",
+    "GDP Growth": "4.09%",
+    "Population 2023": "282,336",
+    "GDP per capita": "$23,804",
+    "Share of World GDP": "0.0063%"
+  },
+  {
+    "#": "149",
+    "Country": "Maldives",
+    "GDP (nominal, 2023)": "$6,590,894,302",
+    "GDP (abbrev.)": "6.591 billion",
+    "GDP Growth": "4.73%",
+    "Population 2023": "525,994",
+    "GDP per capita": "$12,530",
+    "Share of World GDP": "0.0062%"
+  },
+  {
+    "#": "150",
+    "Country": "Sierra Leone",
+    "GDP (nominal, 2023)": "$6,411,869,546",
+    "GDP (abbrev.)": "6.412 billion",
+    "GDP Growth": "5.71%",
+    "Population 2023": "8,460,512",
+    "GDP per capita": "$758",
+    "Share of World GDP": "0.0060%"
+  },
+  {
+    "#": "151",
+    "Country": "Fiji",
+    "GDP (nominal, 2023)": "$5,442,046,565",
+    "GDP (abbrev.)": "5.442 billion",
+    "GDP Growth": "7.52%",
+    "Population 2023": "924,145",
+    "GDP per capita": "$5,889",
+    "Share of World GDP": "0.0051%"
+  },
+  {
+    "#": "152",
+    "Country": "Eswatini",
+    "GDP (nominal, 2023)": "$4,442,875,788",
+    "GDP (abbrev.)": "4.443 billion",
+    "GDP Growth": "5.01%",
+    "Population 2023": "1,230,506",
+    "GDP per capita": "$3,611",
+    "Share of World GDP": "0.0042%"
+  },
+  {
+    "#": "153",
+    "Country": "Liberia",
+    "GDP (nominal, 2023)": "$4,240,000,000",
+    "GDP (abbrev.)": "4.24 billion",
+    "GDP Growth": "4.68%",
+    "Population 2023": "5,493,031",
+    "GDP per capita": "$772",
+    "Share of World GDP": "0.0040%"
+  },
+  {
+    "#": "154",
+    "Country": "Andorra",
+    "GDP (nominal, 2023)": "$3,785,067,332",
+    "GDP (abbrev.)": "3.785 billion",
+    "GDP Growth": "2.58%",
+    "Population 2023": "80,856",
+    "GDP per capita": "$46,812",
+    "Share of World GDP": "0.0036%"
+  },
+  {
+    "#": "155",
+    "Country": "Aruba",
+    "GDP (nominal, 2023)": "$3,648,573,136",
+    "GDP (abbrev.)": "3.649 billion",
+    "GDP Growth": "4.26%",
+    "Population 2023": "107,939",
+    "GDP per capita": "$33,802",
+    "Share of World GDP": "0.0034%"
+  },
+  {
+    "#": "156",
+    "Country": "Suriname",
+    "GDP (nominal, 2023)": "$3,455,146,281",
+    "GDP (abbrev.)": "3.455 billion",
+    "GDP Growth": "2.54%",
+    "Population 2023": "628,886",
+    "GDP per capita": "$5,494",
+    "Share of World GDP": "0.0033%"
+  },
+  {
+    "#": "157",
+    "Country": "Belize",
+    "GDP (nominal, 2023)": "$3,066,850,000",
+    "GDP (abbrev.)": "3.067 billion",
+    "GDP Growth": "1.15%",
+    "Population 2023": "411,106",
+    "GDP per capita": "$7,460",
+    "Share of World GDP": "0.0029%"
+  },
+  {
+    "#": "158",
+    "Country": "Burundi",
+    "GDP (nominal, 2023)": "$2,642,161,669",
+    "GDP (abbrev.)": "2.642 billion",
+    "GDP Growth": "2.7%",
+    "Population 2023": "13,689,450",
+    "GDP per capita": "$193",
+    "Share of World GDP": "0.0025%"
+  },
+  {
+    "#": "159",
+    "Country": "Central African Republic",
+    "GDP (nominal, 2023)": "$2,555,492,085",
+    "GDP (abbrev.)": "2.555 billion",
+    "GDP Growth": "0.87%",
+    "Population 2023": "5,152,421",
+    "GDP per capita": "$496",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "160",
+    "Country": "Cabo Verde",
+    "GDP (nominal, 2023)": "$2,533,819,406",
+    "GDP (abbrev.)": "2.534 billion",
+    "GDP Growth": "5.48%",
+    "Population 2023": "522,331",
+    "GDP per capita": "$4,851",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "161",
+    "Country": "Saint Lucia",
+    "GDP (nominal, 2023)": "$2,430,148,148",
+    "GDP (abbrev.)": "2.43 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "179,285",
+    "GDP per capita": "$13,555",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "162",
+    "Country": "Gambia",
+    "GDP (nominal, 2023)": "$2,396,111,022",
+    "GDP (abbrev.)": "2.396 billion",
+    "GDP Growth": "4.8%",
+    "Population 2023": "2,697,845",
+    "GDP per capita": "$888",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "163",
+    "Country": "Seychelles",
+    "GDP (nominal, 2023)": "$2,141,450,171",
+    "GDP (abbrev.)": "2.141 billion",
+    "GDP Growth": "3.16%",
+    "Population 2023": "127,951",
+    "GDP per capita": "$16,736",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "164",
+    "Country": "Lesotho",
+    "GDP (nominal, 2023)": "$2,117,962,451",
+    "GDP (abbrev.)": "2.118 billion",
+    "GDP Growth": "1.83%",
+    "Population 2023": "2,311,472",
+    "GDP per capita": "$916",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "165",
+    "Country": "Timor-Leste",
+    "GDP (nominal, 2023)": "$2,079,916,900",
+    "GDP (abbrev.)": "2.08 billion",
+    "GDP Growth": "−18.12%",
+    "Population 2023": "1,384,286",
+    "GDP per capita": "$1,503",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "166",
+    "Country": "Guinea-Bissau",
+    "GDP (nominal, 2023)": "$2,048,348,108",
+    "GDP (abbrev.)": "2.048 billion",
+    "GDP Growth": "5.2%",
+    "Population 2023": "2,153,339",
+    "GDP per capita": "$951",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "167",
+    "Country": "Antigua and Barbuda",
+    "GDP (nominal, 2023)": "$2,033,085,185",
+    "GDP (abbrev.)": "2.033 billion",
+    "GDP Growth": "3.86%",
+    "Population 2023": "93,316",
+    "GDP per capita": "$21,787",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "168",
+    "Country": "Solomon Islands",
+    "GDP (nominal, 2023)": "$1,633,319,401",
+    "GDP (abbrev.)": "1.633 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "800,005",
+    "GDP per capita": "$2,042",
+    "Share of World GDP": "0.0015%"
+  },
+  {
+    "#": "169",
+    "Country": "Comoros",
+    "GDP (nominal, 2023)": "$1,352,380,971",
+    "GDP (abbrev.)": "1.352 billion",
+    "GDP Growth": "3%",
+    "Population 2023": "850,387",
+    "GDP per capita": "$1,590",
+    "Share of World GDP": "0.0013%"
+  },
+  {
+    "#": "170",
+    "Country": "Grenada",
+    "GDP (nominal, 2023)": "$1,316,733,333",
+    "GDP (abbrev.)": "1.317 billion",
+    "GDP Growth": "3.57%",
+    "Population 2023": "117,081",
+    "GDP per capita": "$11,246",
+    "Share of World GDP": "0.0012%"
+  },
+  {
+    "#": "171",
+    "Country": "Vanuatu",
+    "GDP (nominal, 2023)": "$1,126,313,359",
+    "GDP (abbrev.)": "1.126 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "320,409",
+    "GDP per capita": "$3,515",
+    "Share of World GDP": "0.0011%"
+  },
+  {
+    "#": "172",
+    "Country": "St. Vincent & Grenadines",
+    "GDP (nominal, 2023)": "$1,065,962,963",
+    "GDP (abbrev.)": "1.066 billion",
+    "GDP Growth": "6.02%",
+    "Population 2023": "101,323",
+    "GDP per capita": "$10,520",
+    "Share of World GDP": "0.0010%"
+  },
+  {
+    "#": "173",
+    "Country": "Saint Kitts & Nevis",
+    "GDP (nominal, 2023)": "$1,055,499,778",
+    "GDP (abbrev.)": "1.055 billion",
+    "GDP Growth": "2.28%",
+    "Population 2023": "46,758",
+    "GDP per capita": "$22,574",
+    "Share of World GDP": "0.00099%"
+  },
+  {
+    "#": "174",
+    "Country": "Samoa",
+    "GDP (nominal, 2023)": "$938,189,444",
+    "GDP (abbrev.)": "938.189 million",
+    "GDP Growth": "8.58%",
+    "Population 2023": "216,663",
+    "GDP per capita": "$4,330",
+    "Share of World GDP": "0.00088%"
+  },
+  {
+    "#": "175",
+    "Country": "Sao Tome & Principe",
+    "GDP (nominal, 2023)": "$678,976,265",
+    "GDP (abbrev.)": "678.976 million",
+    "GDP Growth": "0.37%",
+    "Population 2023": "230,871",
+    "GDP per capita": "$2,941",
+    "Share of World GDP": "0.00064%"
+  },
+  {
+    "#": "176",
+    "Country": "Dominica",
+    "GDP (nominal, 2023)": "$653,992,593",
+    "GDP (abbrev.)": "653.993 million",
+    "GDP Growth": "4.71%",
+    "Population 2023": "66,510",
+    "GDP per capita": "$9,833",
+    "Share of World GDP": "0.00062%"
+  },
+  {
+    "#": "177",
+    "Country": "Micronesia",
+    "GDP (nominal, 2023)": "$460,000,000",
+    "GDP (abbrev.)": "460 million",
+    "GDP Growth": "0.78%",
+    "Population 2023": "112,630",
+    "GDP per capita": "$4,084",
+    "Share of World GDP": "0.00043%"
+  },
+  {
+    "#": "178",
+    "Country": "Palau",
+    "GDP (nominal, 2023)": "$281,849,063",
+    "GDP (abbrev.)": "281.849 million",
+    "GDP Growth": "1.88%",
+    "Population 2023": "17,727",
+    "GDP per capita": "$15,899",
+    "Share of World GDP": "0.00027%"
+  },
+  {
+    "#": "179",
+    "Country": "Kiribati",
+    "GDP (nominal, 2023)": "$279,208,903",
+    "GDP (abbrev.)": "279.209 million",
+    "GDP Growth": "4.12%",
+    "Population 2023": "132,530",
+    "GDP per capita": "$2,107",
+    "Share of World GDP": "0.00026%"
+  },
+  {
+    "#": "180",
+    "Country": "Marshall Islands",
+    "GDP (nominal, 2023)": "$259,300,000",
+    "GDP (abbrev.)": "259.3 million",
+    "GDP Growth": "−3.93%",
+    "Population 2023": "38,827",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.00024%"
+  },
+  {
+    "#": "181",
+    "Country": "Tuvalu",
+    "GDP (nominal, 2023)": "$62,280,312",
+    "GDP (abbrev.)": "62.28 million",
+    "GDP Growth": "3.85%",
+    "Population 2023": "9,816",
+    "GDP per capita": "$6,345",
+    "Share of World GDP": "0.000059%"
+  }
+][
+  {
+    "#": "1",
+    "Country": "United States",
+    "GDP (nominal, 2023)": "$27,720,700,000,000",
+    "GDP (abbrev.)": "27.721 trillion",
+    "GDP Growth": "2.89%",
+    "Population 2023": "343,477,335",
+    "GDP per capita": "$80,706",
+    "Share of World GDP": "26.11%"
+  },
+  {
+    "#": "2",
+    "Country": "China",
+    "GDP (nominal, 2023)": "$17,794,800,000,000",
+    "GDP (abbrev.)": "17.795 trillion",
+    "GDP Growth": "5.25%",
+    "Population 2023": "1,422,584,933",
+    "GDP per capita": "$12,509",
+    "Share of World GDP": "16.76%"
+  },
+  {
+    "#": "3",
+    "Country": "Germany",
+    "GDP (nominal, 2023)": "$4,525,700,000,000",
+    "GDP (abbrev.)": "4.526 trillion",
+    "GDP Growth": "−0.27%",
+    "Population 2023": "84,548,231",
+    "GDP per capita": "$53,528",
+    "Share of World GDP": "4.26%"
+  },
+  {
+    "#": "4",
+    "Country": "Japan",
+    "GDP (nominal, 2023)": "$4,204,490,000,000",
+    "GDP (abbrev.)": "4.204 trillion",
+    "GDP Growth": "1.68%",
+    "Population 2023": "124,370,947",
+    "GDP per capita": "$33,806",
+    "Share of World GDP": "3.96%"
+  },
+  {
+    "#": "5",
+    "Country": "India",
+    "GDP (nominal, 2023)": "$3,567,550,000,000",
+    "GDP (abbrev.)": "3.568 trillion",
+    "GDP Growth": "8.15%",
+    "Population 2023": "1,438,069,596",
+    "GDP per capita": "$2,481",
+    "Share of World GDP": "3.36%"
+  },
+  {
+    "#": "6",
+    "Country": "United Kingdom",
+    "GDP (nominal, 2023)": "$3,380,850,000,000",
+    "GDP (abbrev.)": "3.381 trillion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "68,682,962",
+    "GDP per capita": "$49,224",
+    "Share of World GDP": "3.18%"
+  },
+  {
+    "#": "7",
+    "Country": "France",
+    "GDP (nominal, 2023)": "$3,051,830,000,000",
+    "GDP (abbrev.)": "3.052 trillion",
+    "GDP Growth": "0.94%",
+    "Population 2023": "66,438,822",
+    "GDP per capita": "$45,934",
+    "Share of World GDP": "2.87%"
+  },
+  {
+    "#": "8",
+    "Country": "Italy",
+    "GDP (nominal, 2023)": "$2,300,940,000,000",
+    "GDP (abbrev.)": "2.301 trillion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "59,499,453",
+    "GDP per capita": "$38,672",
+    "Share of World GDP": "2.17%"
+  },
+  {
+    "#": "9",
+    "Country": "Brazil",
+    "GDP (nominal, 2023)": "$2,173,670,000,000",
+    "GDP (abbrev.)": "2.174 trillion",
+    "GDP Growth": "2.91%",
+    "Population 2023": "211,140,729",
+    "GDP per capita": "$10,295",
+    "Share of World GDP": "2.05%"
+  },
+  {
+    "#": "10",
+    "Country": "Canada",
+    "GDP (nominal, 2023)": "$2,142,470,000,000",
+    "GDP (abbrev.)": "2.142 trillion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "39,299,105",
+    "GDP per capita": "$54,517",
+    "Share of World GDP": "2.02%"
+  },
+  {
+    "#": "11",
+    "Country": "Russia",
+    "GDP (nominal, 2023)": "$2,021,420,000,000",
+    "GDP (abbrev.)": "2.021 trillion",
+    "GDP Growth": "3.6%",
+    "Population 2023": "145,440,500",
+    "GDP per capita": "$13,899",
+    "Share of World GDP": "1.90%"
+  },
+  {
+    "#": "12",
+    "Country": "Mexico",
+    "GDP (nominal, 2023)": "$1,789,110,000,000",
+    "GDP (abbrev.)": "1.789 trillion",
+    "GDP Growth": "3.2%",
+    "Population 2023": "129,739,759",
+    "GDP per capita": "$13,790",
+    "Share of World GDP": "1.69%"
+  },
+  {
+    "#": "13",
+    "Country": "Australia",
+    "GDP (nominal, 2023)": "$1,728,060,000,000",
+    "GDP (abbrev.)": "1.728 trillion",
+    "GDP Growth": "3.44%",
+    "Population 2023": "26,451,124",
+    "GDP per capita": "$65,330",
+    "Share of World GDP": "1.63%"
+  },
+  {
+    "#": "14",
+    "Country": "South Korea",
+    "GDP (nominal, 2023)": "$1,712,790,000,000",
+    "GDP (abbrev.)": "1.713 trillion",
+    "GDP Growth": "1.36%",
+    "Population 2023": "51,748,739",
+    "GDP per capita": "$33,098",
+    "Share of World GDP": "1.61%"
+  },
+  {
+    "#": "15",
+    "Country": "Spain",
+    "GDP (nominal, 2023)": "$1,620,090,000,000",
+    "GDP (abbrev.)": "1.62 trillion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "47,911,579",
+    "GDP per capita": "$33,814",
+    "Share of World GDP": "1.53%"
+  },
+  {
+    "#": "16",
+    "Country": "Indonesia",
+    "GDP (nominal, 2023)": "$1,371,170,000,000",
+    "GDP (abbrev.)": "1.371 trillion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "281,190,067",
+    "GDP per capita": "$4,876",
+    "Share of World GDP": "1.29%"
+  },
+  {
+    "#": "17",
+    "Country": "Netherlands",
+    "GDP (nominal, 2023)": "$1,154,360,000,000",
+    "GDP (abbrev.)": "1.154 trillion",
+    "GDP Growth": "0.07%",
+    "Population 2023": "18,092,524",
+    "GDP per capita": "$63,803",
+    "Share of World GDP": "1.09%"
+  },
+  {
+    "#": "18",
+    "Country": "Turkey",
+    "GDP (nominal, 2023)": "$1,118,250,000,000",
+    "GDP (abbrev.)": "1.118 trillion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "87,270,501",
+    "GDP per capita": "$12,814",
+    "Share of World GDP": "1.05%"
+  },
+  {
+    "#": "19",
+    "Country": "Saudi Arabia",
+    "GDP (nominal, 2023)": "$1,067,580,000,000",
+    "GDP (abbrev.)": "1.068 trillion",
+    "GDP Growth": "−0.76%",
+    "Population 2023": "33,264,292",
+    "GDP per capita": "$32,094",
+    "Share of World GDP": "1.01%"
+  },
+  {
+    "#": "20",
+    "Country": "Switzerland",
+    "GDP (nominal, 2023)": "$884,940,000,000",
+    "GDP (abbrev.)": "884.94 billion",
+    "GDP Growth": "0.72%",
+    "Population 2023": "8,870,561",
+    "GDP per capita": "$99,761",
+    "Share of World GDP": "0.83%"
+  },
+  {
+    "#": "21",
+    "Country": "Poland",
+    "GDP (nominal, 2023)": "$809,201,000,000",
+    "GDP (abbrev.)": "809.201 billion",
+    "GDP Growth": "0.14%",
+    "Population 2023": "38,762,844",
+    "GDP per capita": "$20,876",
+    "Share of World GDP": "0.76%"
+  },
+  {
+    "#": "22",
+    "Country": "Argentina",
+    "GDP (nominal, 2023)": "$646,075,000,000",
+    "GDP (abbrev.)": "646.075 billion",
+    "GDP Growth": "−1.61%",
+    "Population 2023": "45,538,401",
+    "GDP per capita": "$14,187",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "23",
+    "Country": "Belgium",
+    "GDP (nominal, 2023)": "$644,783,000,000",
+    "GDP (abbrev.)": "644.783 billion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "11,712,893",
+    "GDP per capita": "$55,049",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "24",
+    "Country": "Sweden",
+    "GDP (nominal, 2023)": "$584,960,000,000",
+    "GDP (abbrev.)": "584.96 billion",
+    "GDP Growth": "−0.31%",
+    "Population 2023": "10,551,494",
+    "GDP per capita": "$55,439",
+    "Share of World GDP": "0.55%"
+  },
+  {
+    "#": "25",
+    "Country": "Ireland",
+    "GDP (nominal, 2023)": "$551,395,000,000",
+    "GDP (abbrev.)": "551.395 billion",
+    "GDP Growth": "−5.53%",
+    "Population 2023": "5,196,630",
+    "GDP per capita": "$106,106",
+    "Share of World GDP": "0.52%"
+  },
+  {
+    "#": "26",
+    "Country": "Thailand",
+    "GDP (nominal, 2023)": "$514,969,000,000",
+    "GDP (abbrev.)": "514.969 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "71,702,435",
+    "GDP per capita": "$7,182",
+    "Share of World GDP": "0.49%"
+  },
+  {
+    "#": "27",
+    "Country": "United Arab Emirates",
+    "GDP (nominal, 2023)": "$514,130,000,000",
+    "GDP (abbrev.)": "514.13 billion",
+    "GDP Growth": "3.62%",
+    "Population 2023": "10,642,081",
+    "GDP per capita": "$48,311",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "28",
+    "Country": "Israel",
+    "GDP (nominal, 2023)": "$513,611,000,000",
+    "GDP (abbrev.)": "513.611 billion",
+    "GDP Growth": "2.42%",
+    "Population 2023": "9,256,314",
+    "GDP per capita": "$55,488",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "29",
+    "Country": "Austria",
+    "GDP (nominal, 2023)": "$511,685,000,000",
+    "GDP (abbrev.)": "511.685 billion",
+    "GDP Growth": "−0.95%",
+    "Population 2023": "9,130,429",
+    "GDP per capita": "$56,042",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "30",
+    "Country": "Singapore",
+    "GDP (nominal, 2023)": "$501,428,000,000",
+    "GDP (abbrev.)": "501.428 billion",
+    "GDP Growth": "1.07%",
+    "Population 2023": "5,789,090",
+    "GDP per capita": "$86,616",
+    "Share of World GDP": "0.47%"
+  },
+  {
+    "#": "31",
+    "Country": "Norway",
+    "GDP (nominal, 2023)": "$485,311,000,000",
+    "GDP (abbrev.)": "485.311 billion",
+    "GDP Growth": "0.48%",
+    "Population 2023": "5,519,167",
+    "GDP per capita": "$87,932",
+    "Share of World GDP": "0.46%"
+  },
+  {
+    "#": "32",
+    "Country": "Bangladesh",
+    "GDP (nominal, 2023)": "$437,415,000,000",
+    "GDP (abbrev.)": "437.415 billion",
+    "GDP Growth": "5.78%",
+    "Population 2023": "171,466,990",
+    "GDP per capita": "$2,551",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "33",
+    "Country": "Philippines",
+    "GDP (nominal, 2023)": "$437,146,000,000",
+    "GDP (abbrev.)": "437.146 billion",
+    "GDP Growth": "5.55%",
+    "Population 2023": "114,891,199",
+    "GDP per capita": "$3,805",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "34",
+    "Country": "Vietnam",
+    "GDP (nominal, 2023)": "$429,717,000,000",
+    "GDP (abbrev.)": "429.717 billion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "100,352,192",
+    "GDP per capita": "$4,282",
+    "Share of World GDP": "0.40%"
+  },
+  {
+    "#": "35",
+    "Country": "Denmark",
+    "GDP (nominal, 2023)": "$407,092,000,000",
+    "GDP (abbrev.)": "407.092 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "5,948,136",
+    "GDP per capita": "$68,440",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "36",
+    "Country": "Iran",
+    "GDP (nominal, 2023)": "$404,626,000,000",
+    "GDP (abbrev.)": "404.626 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "90,608,707",
+    "GDP per capita": "$4,466",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "37",
+    "Country": "Malaysia",
+    "GDP (nominal, 2023)": "$399,705,000,000",
+    "GDP (abbrev.)": "399.705 billion",
+    "GDP Growth": "3.56%",
+    "Population 2023": "35,126,298",
+    "GDP per capita": "$11,379",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "38",
+    "Country": "Egypt",
+    "GDP (nominal, 2023)": "$396,002,000,000",
+    "GDP (abbrev.)": "396.002 billion",
+    "GDP Growth": "3.76%",
+    "Population 2023": "114,535,772",
+    "GDP per capita": "$3,457",
+    "Share of World GDP": "0.37%"
+  },
+  {
+    "#": "39",
+    "Country": "Hong Kong",
+    "GDP (nominal, 2023)": "$380,812,000,000",
+    "GDP (abbrev.)": "380.812 billion",
+    "GDP Growth": "3.28%",
+    "Population 2023": "7,442,734",
+    "GDP per capita": "$51,166",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "40",
+    "Country": "South Africa",
+    "GDP (nominal, 2023)": "$380,699,000,000",
+    "GDP (abbrev.)": "380.699 billion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "63,212,384",
+    "GDP per capita": "$6,023",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "41",
+    "Country": "Nigeria",
+    "GDP (nominal, 2023)": "$363,846,000,000",
+    "GDP (abbrev.)": "363.846 billion",
+    "GDP Growth": "2.86%",
+    "Population 2023": "227,882,945",
+    "GDP per capita": "$1,597",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "42",
+    "Country": "Colombia",
+    "GDP (nominal, 2023)": "$363,494,000,000",
+    "GDP (abbrev.)": "363.494 billion",
+    "GDP Growth": "0.61%",
+    "Population 2023": "52,321,152",
+    "GDP per capita": "$6,947",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "43",
+    "Country": "Romania",
+    "GDP (nominal, 2023)": "$350,776,000,000",
+    "GDP (abbrev.)": "350.776 billion",
+    "GDP Growth": "2.4%",
+    "Population 2023": "19,118,479",
+    "GDP per capita": "$18,347",
+    "Share of World GDP": "0.33%"
+  },
+  {
+    "#": "44",
+    "Country": "Czech Republic (Czechia)",
+    "GDP (nominal, 2023)": "$343,208,000,000",
+    "GDP (abbrev.)": "343.208 billion",
+    "GDP Growth": "−0.09%",
+    "Population 2023": "10,809,716",
+    "GDP per capita": "$31,750",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "45",
+    "Country": "Pakistan",
+    "GDP (nominal, 2023)": "$337,912,000,000",
+    "GDP (abbrev.)": "337.912 billion",
+    "GDP Growth": "−0.04%",
+    "Population 2023": "247,504,495",
+    "GDP per capita": "$1,365",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "46",
+    "Country": "Chile",
+    "GDP (nominal, 2023)": "$335,533,000,000",
+    "GDP (abbrev.)": "335.533 billion",
+    "GDP Growth": "0.22%",
+    "Population 2023": "19,658,835",
+    "GDP per capita": "$17,068",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "47",
+    "Country": "Finland",
+    "GDP (nominal, 2023)": "$295,532,000,000",
+    "GDP (abbrev.)": "295.532 billion",
+    "GDP Growth": "−1.16%",
+    "Population 2023": "5,601,185",
+    "GDP per capita": "$52,762",
+    "Share of World GDP": "0.28%"
+  },
+  {
+    "#": "48",
+    "Country": "Portugal",
+    "GDP (nominal, 2023)": "$289,114,000,000",
+    "GDP (abbrev.)": "289.114 billion",
+    "GDP Growth": "2.53%",
+    "Population 2023": "10,430,738",
+    "GDP per capita": "$27,718",
+    "Share of World GDP": "0.27%"
+  },
+  {
+    "#": "49",
+    "Country": "Peru",
+    "GDP (nominal, 2023)": "$267,603,000,000",
+    "GDP (abbrev.)": "267.603 billion",
+    "GDP Growth": "−0.55%",
+    "Population 2023": "33,845,617",
+    "GDP per capita": "$7,907",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "50",
+    "Country": "Kazakhstan",
+    "GDP (nominal, 2023)": "$262,642,000,000",
+    "GDP (abbrev.)": "262.642 billion",
+    "GDP Growth": "5.1%",
+    "Population 2023": "20,330,104",
+    "GDP per capita": "$12,919",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "51",
+    "Country": "New Zealand",
+    "GDP (nominal, 2023)": "$252,176,000,000",
+    "GDP (abbrev.)": "252.176 billion",
+    "GDP Growth": "0.73%",
+    "Population 2023": "5,172,836",
+    "GDP per capita": "$48,750",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "52",
+    "Country": "Iraq",
+    "GDP (nominal, 2023)": "$250,843,000,000",
+    "GDP (abbrev.)": "250.843 billion",
+    "GDP Growth": "−2.94%",
+    "Population 2023": "45,074,049",
+    "GDP per capita": "$5,565",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "53",
+    "Country": "Algeria",
+    "GDP (nominal, 2023)": "$247,626,000,000",
+    "GDP (abbrev.)": "247.626 billion",
+    "GDP Growth": "4.1%",
+    "Population 2023": "46,164,219",
+    "GDP per capita": "$5,364",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "54",
+    "Country": "Greece",
+    "GDP (nominal, 2023)": "$243,498,000,000",
+    "GDP (abbrev.)": "243.498 billion",
+    "GDP Growth": "2.33%",
+    "Population 2023": "10,242,908",
+    "GDP per capita": "$23,772",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "55",
+    "Country": "Qatar",
+    "GDP (nominal, 2023)": "$213,003,000,000",
+    "GDP (abbrev.)": "213.003 billion",
+    "GDP Growth": "1.19%",
+    "Population 2023": "2,979,082",
+    "GDP per capita": "$71,500",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "56",
+    "Country": "Hungary",
+    "GDP (nominal, 2023)": "$212,389,000,000",
+    "GDP (abbrev.)": "212.389 billion",
+    "GDP Growth": "−0.91%",
+    "Population 2023": "9,686,463",
+    "GDP per capita": "$21,926",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "57",
+    "Country": "Ukraine",
+    "GDP (nominal, 2023)": "$178,757,000,000",
+    "GDP (abbrev.)": "178.757 billion",
+    "GDP Growth": "5.32%",
+    "Population 2023": "37,732,836",
+    "GDP per capita": "$4,737",
+    "Share of World GDP": "0.17%"
+  },
+  {
+    "#": "58",
+    "Country": "Kuwait",
+    "GDP (nominal, 2023)": "$163,705,000,000",
+    "GDP (abbrev.)": "163.705 billion",
+    "GDP Growth": "−3.64%",
+    "Population 2023": "4,838,782",
+    "GDP per capita": "$33,832",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "59",
+    "Country": "Ethiopia",
+    "GDP (nominal, 2023)": "$163,698,000,000",
+    "GDP (abbrev.)": "163.698 billion",
+    "GDP Growth": "6.5%",
+    "Population 2023": "128,691,692",
+    "GDP per capita": "$1,272",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "60",
+    "Country": "Morocco",
+    "GDP (nominal, 2023)": "$144,417,000,000",
+    "GDP (abbrev.)": "144.417 billion",
+    "GDP Growth": "3.4%",
+    "Population 2023": "37,712,505",
+    "GDP per capita": "$3,829",
+    "Share of World GDP": "0.14%"
+  },
+  {
+    "#": "61",
+    "Country": "Slovakia",
+    "GDP (nominal, 2023)": "$132,908,000,000",
+    "GDP (abbrev.)": "132.908 billion",
+    "GDP Growth": "1.38%",
+    "Population 2023": "5,518,055",
+    "GDP per capita": "$24,086",
+    "Share of World GDP": "0.13%"
+  },
+  {
+    "#": "62",
+    "Country": "Dominican Republic",
+    "GDP (nominal, 2023)": "$121,444,000,000",
+    "GDP (abbrev.)": "121.444 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "11,331,265",
+    "GDP per capita": "$10,718",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "63",
+    "Country": "Ecuador",
+    "GDP (nominal, 2023)": "$118,845,000,000",
+    "GDP (abbrev.)": "118.845 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "17,980,083",
+    "GDP per capita": "$6,610",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "64",
+    "Country": "Sudan",
+    "GDP (nominal, 2023)": "$109,266,000,000",
+    "GDP (abbrev.)": "109.266 billion",
+    "GDP Growth": "−20.11%",
+    "Population 2023": "50,042,791",
+    "GDP per capita": "$2,183",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "65",
+    "Country": "Oman",
+    "GDP (nominal, 2023)": "$108,811,000,000",
+    "GDP (abbrev.)": "108.811 billion",
+    "GDP Growth": "1.31%",
+    "Population 2023": "5,049,269",
+    "GDP per capita": "$21,550",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "66",
+    "Country": "Kenya",
+    "GDP (nominal, 2023)": "$108,039,000,000",
+    "GDP (abbrev.)": "108.039 billion",
+    "GDP Growth": "5.56%",
+    "Population 2023": "55,339,003",
+    "GDP per capita": "$1,952",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "67",
+    "Country": "Guatemala",
+    "GDP (nominal, 2023)": "$104,450,000,000",
+    "GDP (abbrev.)": "104.45 billion",
+    "GDP Growth": "3.53%",
+    "Population 2023": "18,124,838",
+    "GDP per capita": "$5,763",
+    "Share of World GDP": "0.098%"
+  },
+  {
+    "#": "68",
+    "Country": "Bulgaria",
+    "GDP (nominal, 2023)": "$102,408,000,000",
+    "GDP (abbrev.)": "102.408 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "6,795,803",
+    "GDP per capita": "$15,069",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "69",
+    "Country": "Uzbekistan",
+    "GDP (nominal, 2023)": "$101,592,000,000",
+    "GDP (abbrev.)": "101.592 billion",
+    "GDP Growth": "6.29%",
+    "Population 2023": "35,652,307",
+    "GDP per capita": "$2,850",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "70",
+    "Country": "Costa Rica",
+    "GDP (nominal, 2023)": "$86,497,941,439",
+    "GDP (abbrev.)": "86.498 billion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "5,105,525",
+    "GDP per capita": "$16,942",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "71",
+    "Country": "Luxembourg",
+    "GDP (nominal, 2023)": "$85,755,006,124",
+    "GDP (abbrev.)": "85.755 billion",
+    "GDP Growth": "−1.1%",
+    "Population 2023": "665,098",
+    "GDP per capita": "$128,936",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "72",
+    "Country": "Angola",
+    "GDP (nominal, 2023)": "$84,824,654,482",
+    "GDP (abbrev.)": "84.825 billion",
+    "GDP Growth": "1%",
+    "Population 2023": "36,749,906",
+    "GDP per capita": "$2,308",
+    "Share of World GDP": "0.080%"
+  },
+  {
+    "#": "73",
+    "Country": "Croatia",
+    "GDP (nominal, 2023)": "$84,393,795,502",
+    "GDP (abbrev.)": "84.394 billion",
+    "GDP Growth": "3.3%",
+    "Population 2023": "3,896,023",
+    "GDP per capita": "$21,662",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "74",
+    "Country": "Sri Lanka",
+    "GDP (nominal, 2023)": "$84,356,863,744",
+    "GDP (abbrev.)": "84.357 billion",
+    "GDP Growth": "−2.3%",
+    "Population 2023": "22,971,617",
+    "GDP per capita": "$3,672",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "75",
+    "Country": "Panama",
+    "GDP (nominal, 2023)": "$83,318,176,900",
+    "GDP (abbrev.)": "83.318 billion",
+    "GDP Growth": "7.4%",
+    "Population 2023": "4,458,759",
+    "GDP per capita": "$18,686",
+    "Share of World GDP": "0.078%"
+  },
+  {
+    "#": "76",
+    "Country": "Serbia",
+    "GDP (nominal, 2023)": "$81,342,660,752",
+    "GDP (abbrev.)": "81.343 billion",
+    "GDP Growth": "3.85%",
+    "Population 2023": "6,773,201",
+    "GDP per capita": "$12,009",
+    "Share of World GDP": "0.077%"
+  },
+  {
+    "#": "77",
+    "Country": "Lithuania",
+    "GDP (nominal, 2023)": "$79,789,877,416",
+    "GDP (abbrev.)": "79.79 billion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "2,854,099",
+    "GDP per capita": "$27,956",
+    "Share of World GDP": "0.075%"
+  },
+  {
+    "#": "78",
+    "Country": "Tanzania",
+    "GDP (nominal, 2023)": "$79,062,403,821",
+    "GDP (abbrev.)": "79.062 billion",
+    "GDP Growth": "5.07%",
+    "Population 2023": "66,617,606",
+    "GDP per capita": "$1,187",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "79",
+    "Country": "Côte d'Ivoire",
+    "GDP (nominal, 2023)": "$78,875,489,245",
+    "GDP (abbrev.)": "78.875 billion",
+    "GDP Growth": "6.2%",
+    "Population 2023": "31,165,654",
+    "GDP per capita": "$2,531",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "80",
+    "Country": "Uruguay",
+    "GDP (nominal, 2023)": "$77,240,830,877",
+    "GDP (abbrev.)": "77.241 billion",
+    "GDP Growth": "0.37%",
+    "Population 2023": "3,388,081",
+    "GDP per capita": "$22,798",
+    "Share of World GDP": "0.073%"
+  },
+  {
+    "#": "81",
+    "Country": "Ghana",
+    "GDP (nominal, 2023)": "$76,370,396,722",
+    "GDP (abbrev.)": "76.37 billion",
+    "GDP Growth": "2.94%",
+    "Population 2023": "33,787,914",
+    "GDP per capita": "$2,260",
+    "Share of World GDP": "0.072%"
+  },
+  {
+    "#": "82",
+    "Country": "Azerbaijan",
+    "GDP (nominal, 2023)": "$72,356,176,471",
+    "GDP (abbrev.)": "72.356 billion",
+    "GDP Growth": "1.12%",
+    "Population 2023": "10,318,207",
+    "GDP per capita": "$7,012",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "83",
+    "Country": "Belarus",
+    "GDP (nominal, 2023)": "$71,857,382,746",
+    "GDP (abbrev.)": "71.857 billion",
+    "GDP Growth": "3.89%",
+    "Population 2023": "9,115,680",
+    "GDP per capita": "$7,883",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "84",
+    "Country": "Slovenia",
+    "GDP (nominal, 2023)": "$69,148,468,417",
+    "GDP (abbrev.)": "69.148 billion",
+    "GDP Growth": "2.11%",
+    "Population 2023": "2,118,396",
+    "GDP per capita": "$32,642",
+    "Share of World GDP": "0.065%"
+  },
+  {
+    "#": "85",
+    "Country": "Myanmar",
+    "GDP (nominal, 2023)": "$66,757,619,000",
+    "GDP (abbrev.)": "66.758 billion",
+    "GDP Growth": "0.96%",
+    "Population 2023": "54,133,798",
+    "GDP per capita": "$1,233",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "86",
+    "Country": "DR Congo",
+    "GDP (nominal, 2023)": "$66,383,287,003",
+    "GDP (abbrev.)": "66.383 billion",
+    "GDP Growth": "8.56%",
+    "Population 2023": "105,789,731",
+    "GDP per capita": "$628",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "87",
+    "Country": "Turkmenistan",
+    "GDP (nominal, 2023)": "$60,628,857,143",
+    "GDP (abbrev.)": "60.629 billion",
+    "GDP Growth": "6.3%",
+    "Population 2023": "7,364,438",
+    "GDP per capita": "$8,233",
+    "Share of World GDP": "0.057%"
+  },
+  {
+    "#": "88",
+    "Country": "Jordan",
+    "GDP (nominal, 2023)": "$50,967,475,352",
+    "GDP (abbrev.)": "50.967 billion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "11,439,213",
+    "GDP per capita": "$4,456",
+    "Share of World GDP": "0.048%"
+  },
+  {
+    "#": "89",
+    "Country": "Cameroon",
+    "GDP (nominal, 2023)": "$49,279,410,983",
+    "GDP (abbrev.)": "49.279 billion",
+    "GDP Growth": "3.25%",
+    "Population 2023": "28,372,687",
+    "GDP per capita": "$1,737",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "90",
+    "Country": "Uganda",
+    "GDP (nominal, 2023)": "$48,768,955,863",
+    "GDP (abbrev.)": "48.769 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "48,656,601",
+    "GDP per capita": "$1,002",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "91",
+    "Country": "Tunisia",
+    "GDP (nominal, 2023)": "$48,529,595,417",
+    "GDP (abbrev.)": "48.53 billion",
+    "GDP Growth": "0.04%",
+    "Population 2023": "12,200,431",
+    "GDP per capita": "$3,978",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "92",
+    "Country": "Bahrain",
+    "GDP (nominal, 2023)": "$46,079,867,021",
+    "GDP (abbrev.)": "46.08 billion",
+    "GDP Growth": "2.98%",
+    "Population 2023": "1,569,666",
+    "GDP per capita": "$29,356",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "93",
+    "Country": "Macao",
+    "GDP (nominal, 2023)": "$45,803,067,940",
+    "GDP (abbrev.)": "45.803 billion",
+    "GDP Growth": "75.06%",
+    "Population 2023": "713,912",
+    "GDP per capita": "$64,158",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "94",
+    "Country": "Bolivia",
+    "GDP (nominal, 2023)": "$45,135,398,009",
+    "GDP (abbrev.)": "45.135 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "12,244,159",
+    "GDP per capita": "$3,686",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "95",
+    "Country": "Libya",
+    "GDP (nominal, 2023)": "$45,096,462,972",
+    "GDP (abbrev.)": "45.096 billion",
+    "GDP Growth": "10.16%",
+    "Population 2023": "7,305,659",
+    "GDP per capita": "$6,173",
+    "Share of World GDP": "0.042%"
+  },
+  {
+    "#": "96",
+    "Country": "Paraguay",
+    "GDP (nominal, 2023)": "$42,956,263,544",
+    "GDP (abbrev.)": "42.956 billion",
+    "GDP Growth": "4.71%",
+    "Population 2023": "6,844,146",
+    "GDP per capita": "$6,276",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "97",
+    "Country": "Cambodia",
+    "GDP (nominal, 2023)": "$42,335,646,896",
+    "GDP (abbrev.)": "42.336 billion",
+    "GDP Growth": "4.96%",
+    "Population 2023": "17,423,880",
+    "GDP per capita": "$2,430",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "98",
+    "Country": "Latvia",
+    "GDP (nominal, 2023)": "$42,247,850,065",
+    "GDP (abbrev.)": "42.248 billion",
+    "GDP Growth": "1.71%",
+    "Population 2023": "1,882,396",
+    "GDP per capita": "$22,444",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "99",
+    "Country": "Estonia",
+    "GDP (nominal, 2023)": "$41,291,245,222",
+    "GDP (abbrev.)": "41.291 billion",
+    "GDP Growth": "−3.02%",
+    "Population 2023": "1,367,196",
+    "GDP per capita": "$30,201",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "100",
+    "Country": "Nepal",
+    "GDP (nominal, 2023)": "$40,908,073,367",
+    "GDP (abbrev.)": "40.908 billion",
+    "GDP Growth": "1.95%",
+    "Population 2023": "29,694,614",
+    "GDP per capita": "$1,378",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "101",
+    "Country": "Zimbabwe",
+    "GDP (nominal, 2023)": "$35,231,367,886",
+    "GDP (abbrev.)": "35.231 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "16,340,822",
+    "GDP per capita": "$2,156",
+    "Share of World GDP": "0.033%"
+  },
+  {
+    "#": "102",
+    "Country": "Honduras",
+    "GDP (nominal, 2023)": "$34,400,509,852",
+    "GDP (abbrev.)": "34.401 billion",
+    "GDP Growth": "3.58%",
+    "Population 2023": "10,644,851",
+    "GDP per capita": "$3,232",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "103",
+    "Country": "El Salvador",
+    "GDP (nominal, 2023)": "$34,015,620,000",
+    "GDP (abbrev.)": "34.016 billion",
+    "GDP Growth": "3.51%",
+    "Population 2023": "6,309,624",
+    "GDP per capita": "$5,391",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "104",
+    "Country": "Cyprus",
+    "GDP (nominal, 2023)": "$33,886,930,712",
+    "GDP (abbrev.)": "33.887 billion",
+    "GDP Growth": "2.61%",
+    "Population 2023": "1,344,976",
+    "GDP per capita": "$25,195",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "105",
+    "Country": "Iceland",
+    "GDP (nominal, 2023)": "$31,325,116,556",
+    "GDP (abbrev.)": "31.325 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "387,558",
+    "GDP per capita": "$80,827",
+    "Share of World GDP": "0.030%"
+  },
+  {
+    "#": "106",
+    "Country": "Senegal",
+    "GDP (nominal, 2023)": "$30,848,333,084",
+    "GDP (abbrev.)": "30.848 billion",
+    "GDP Growth": "4.58%",
+    "Population 2023": "18,077,573",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "107",
+    "Country": "Georgia",
+    "GDP (nominal, 2023)": "$30,777,833,585",
+    "GDP (abbrev.)": "30.778 billion",
+    "GDP Growth": "7.83%",
+    "Population 2023": "3,807,492",
+    "GDP per capita": "$8,083",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "108",
+    "Country": "Papua New Guinea",
+    "GDP (nominal, 2023)": "$30,729,242,919",
+    "GDP (abbrev.)": "30.729 billion",
+    "GDP Growth": "3.04%",
+    "Population 2023": "10,389,635",
+    "GDP per capita": "$2,958",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "109",
+    "Country": "Zambia",
+    "GDP (nominal, 2023)": "$27,577,956,471",
+    "GDP (abbrev.)": "27.578 billion",
+    "GDP Growth": "5.37%",
+    "Population 2023": "20,723,965",
+    "GDP per capita": "$1,331",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "110",
+    "Country": "Bosnia and Herzegovina",
+    "GDP (nominal, 2023)": "$27,514,782,476",
+    "GDP (abbrev.)": "27.515 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "3,185,073",
+    "GDP per capita": "$8,639",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "111",
+    "Country": "Trinidad and Tobago",
+    "GDP (nominal, 2023)": "$27,372,285,698",
+    "GDP (abbrev.)": "27.372 billion",
+    "GDP Growth": "1.35%",
+    "Population 2023": "1,502,932",
+    "GDP per capita": "$18,213",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "112",
+    "Country": "Armenia",
+    "GDP (nominal, 2023)": "$24,085,749,592",
+    "GDP (abbrev.)": "24.086 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "2,943,393",
+    "GDP per capita": "$8,183",
+    "Share of World GDP": "0.023%"
+  },
+  {
+    "#": "113",
+    "Country": "Albania",
+    "GDP (nominal, 2023)": "$23,547,179,830",
+    "GDP (abbrev.)": "23.547 billion",
+    "GDP Growth": "3.94%",
+    "Population 2023": "2,811,655",
+    "GDP per capita": "$8,375",
+    "Share of World GDP": "0.022%"
+  },
+  {
+    "#": "114",
+    "Country": "Malta",
+    "GDP (nominal, 2023)": "$22,328,640,242",
+    "GDP (abbrev.)": "22.329 billion",
+    "GDP Growth": "7.5%",
+    "Population 2023": "532,956",
+    "GDP per capita": "$41,896",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "115",
+    "Country": "Guinea",
+    "GDP (nominal, 2023)": "$22,199,409,741",
+    "GDP (abbrev.)": "22.199 billion",
+    "GDP Growth": "6.74%",
+    "Population 2023": "14,405,468",
+    "GDP per capita": "$1,541",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "116",
+    "Country": "Mozambique",
+    "GDP (nominal, 2023)": "$20,954,220,984",
+    "GDP (abbrev.)": "20.954 billion",
+    "GDP Growth": "5.44%",
+    "Population 2023": "33,635,160",
+    "GDP per capita": "$623",
+    "Share of World GDP": "0.020%"
+  },
+  {
+    "#": "117",
+    "Country": "Mali",
+    "GDP (nominal, 2023)": "$20,661,794,596",
+    "GDP (abbrev.)": "20.662 billion",
+    "GDP Growth": "4.66%",
+    "Population 2023": "23,769,127",
+    "GDP per capita": "$869",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "118",
+    "Country": "Mongolia",
+    "GDP (nominal, 2023)": "$20,325,121,394",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "7.42%",
+    "Population 2023": "3,431,932",
+    "GDP per capita": "$5,922",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "119",
+    "Country": "Burkina Faso",
+    "GDP (nominal, 2023)": "$20,324,617,845",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "2.96%",
+    "Population 2023": "23,025,776",
+    "GDP per capita": "$883",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "120",
+    "Country": "Haiti",
+    "GDP (nominal, 2023)": "$19,850,829,758",
+    "GDP (abbrev.)": "19.851 billion",
+    "GDP Growth": "−1.86%",
+    "Population 2023": "11,637,398",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "121",
+    "Country": "Benin",
+    "GDP (nominal, 2023)": "$19,676,049,076",
+    "GDP (abbrev.)": "19.676 billion",
+    "GDP Growth": "6.35%",
+    "Population 2023": "14,111,034",
+    "GDP per capita": "$1,394",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "122",
+    "Country": "Jamaica",
+    "GDP (nominal, 2023)": "$19,423,355,409",
+    "GDP (abbrev.)": "19.423 billion",
+    "GDP Growth": "2.2%",
+    "Population 2023": "2,839,786",
+    "GDP per capita": "$6,840",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "123",
+    "Country": "Botswana",
+    "GDP (nominal, 2023)": "$19,396,084,498",
+    "GDP (abbrev.)": "19.396 billion",
+    "GDP Growth": "2.73%",
+    "Population 2023": "2,480,244",
+    "GDP per capita": "$7,820",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "124",
+    "Country": "Gabon",
+    "GDP (nominal, 2023)": "$19,388,402,542",
+    "GDP (abbrev.)": "19.388 billion",
+    "GDP Growth": "2.45%",
+    "Population 2023": "2,484,789",
+    "GDP per capita": "$7,803",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "125",
+    "Country": "Nicaragua",
+    "GDP (nominal, 2023)": "$17,829,218,219",
+    "GDP (abbrev.)": "17.829 billion",
+    "GDP Growth": "4.57%",
+    "Population 2023": "6,823,613",
+    "GDP per capita": "$2,613",
+    "Share of World GDP": "0.017%"
+  },
+  {
+    "#": "126",
+    "Country": "State of Palestine",
+    "GDP (nominal, 2023)": "$17,420,800,000",
+    "GDP (abbrev.)": "17.421 billion",
+    "GDP Growth": "−5.41%",
+    "Population 2023": "5,409,202",
+    "GDP per capita": "$3,221",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "127",
+    "Country": "Afghanistan",
+    "GDP (nominal, 2023)": "$17,233,051,620",
+    "GDP (abbrev.)": "17.233 billion",
+    "GDP Growth": "2.71%",
+    "Population 2023": "41,454,761",
+    "GDP per capita": "$416",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "128",
+    "Country": "Guyana",
+    "GDP (nominal, 2023)": "$17,159,509,565",
+    "GDP (abbrev.)": "17.16 billion",
+    "GDP Growth": "33.8%",
+    "Population 2023": "826,353",
+    "GDP per capita": "$20,765",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "129",
+    "Country": "Niger",
+    "GDP (nominal, 2023)": "$16,819,170,421",
+    "GDP (abbrev.)": "16.819 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "26,159,867",
+    "GDP per capita": "$643",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "130",
+    "Country": "Moldova",
+    "GDP (nominal, 2023)": "$16,539,436,547",
+    "GDP (abbrev.)": "16.539 billion",
+    "GDP Growth": "0.78%",
+    "Population 2023": "3,067,070",
+    "GDP per capita": "$5,393",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "131",
+    "Country": "Laos",
+    "GDP (nominal, 2023)": "$15,843,155,731",
+    "GDP (abbrev.)": "15.843 billion",
+    "GDP Growth": "3.75%",
+    "Population 2023": "7,664,993",
+    "GDP per capita": "$2,067",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "132",
+    "Country": "Madagascar",
+    "GDP (nominal, 2023)": "$15,790,113,247",
+    "GDP (abbrev.)": "15.79 billion",
+    "GDP Growth": "3.8%",
+    "Population 2023": "31,195,932",
+    "GDP per capita": "$506",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "133",
+    "Country": "North Macedonia",
+    "GDP (nominal, 2023)": "$15,763,621,848",
+    "GDP (abbrev.)": "15.764 billion",
+    "GDP Growth": "2.07%",
+    "Population 2023": "1,831,802",
+    "GDP per capita": "$8,606",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "134",
+    "Country": "Congo",
+    "GDP (nominal, 2023)": "$15,321,055,823",
+    "GDP (abbrev.)": "15.321 billion",
+    "GDP Growth": "1.91%",
+    "Population 2023": "6,182,885",
+    "GDP per capita": "$2,478",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "135",
+    "Country": "Brunei",
+    "GDP (nominal, 2023)": "$15,128,292,981",
+    "GDP (abbrev.)": "15.128 billion",
+    "GDP Growth": "1.41%",
+    "Population 2023": "458,949",
+    "GDP per capita": "$32,963",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "136",
+    "Country": "Mauritius",
+    "GDP (nominal, 2023)": "$14,644,524,819",
+    "GDP (abbrev.)": "14.645 billion",
+    "GDP Growth": "6.96%",
+    "Population 2023": "1,273,588",
+    "GDP per capita": "$11,499",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "137",
+    "Country": "Bahamas",
+    "GDP (nominal, 2023)": "$14,338,500,000",
+    "GDP (abbrev.)": "14.338 billion",
+    "GDP Growth": "2.64%",
+    "Population 2023": "399,440",
+    "GDP per capita": "$35,897",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "138",
+    "Country": "Rwanda",
+    "GDP (nominal, 2023)": "$14,097,768,472",
+    "GDP (abbrev.)": "14.098 billion",
+    "GDP Growth": "8.24%",
+    "Population 2023": "13,954,471",
+    "GDP per capita": "$1,010",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "139",
+    "Country": "Kyrgyzstan",
+    "GDP (nominal, 2023)": "$13,987,627,909",
+    "GDP (abbrev.)": "13.988 billion",
+    "GDP Growth": "6.15%",
+    "Population 2023": "7,073,516",
+    "GDP per capita": "$1,977",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "140",
+    "Country": "Chad",
+    "GDP (nominal, 2023)": "$13,149,325,362",
+    "GDP (abbrev.)": "13.149 billion",
+    "GDP Growth": "4.12%",
+    "Population 2023": "19,319,064",
+    "GDP per capita": "$681",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "141",
+    "Country": "Malawi",
+    "GDP (nominal, 2023)": "$12,712,150,082",
+    "GDP (abbrev.)": "12.712 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "21,104,482",
+    "GDP per capita": "$602",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "142",
+    "Country": "Namibia",
+    "GDP (nominal, 2023)": "$12,351,025,067",
+    "GDP (abbrev.)": "12.351 billion",
+    "GDP Growth": "4.16%",
+    "Population 2023": "2,963,095",
+    "GDP per capita": "$4,168",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "143",
+    "Country": "Equatorial Guinea",
+    "GDP (nominal, 2023)": "$12,337,550,584",
+    "GDP (abbrev.)": "12.338 billion",
+    "GDP Growth": "−5.09%",
+    "Population 2023": "1,847,549",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "144",
+    "Country": "Tajikistan",
+    "GDP (nominal, 2023)": "$12,060,602,009",
+    "GDP (abbrev.)": "12.061 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "10,389,799",
+    "GDP per capita": "$1,161",
+    "Share of World GDP": "0.011%"
+  },
+  {
+    "#": "145",
+    "Country": "Mauritania",
+    "GDP (nominal, 2023)": "$10,651,709,411",
+    "GDP (abbrev.)": "10.652 billion",
+    "GDP Growth": "6.51%",
+    "Population 2023": "5,022,441",
+    "GDP per capita": "$2,121",
+    "Share of World GDP": "0.010%"
+  },
+  {
+    "#": "146",
+    "Country": "Togo",
+    "GDP (nominal, 2023)": "$9,171,261,838",
+    "GDP (abbrev.)": "9.171 billion",
+    "GDP Growth": "6.41%",
+    "Population 2023": "9,304,337",
+    "GDP per capita": "$986",
+    "Share of World GDP": "0.0086%"
+  },
+  {
+    "#": "147",
+    "Country": "Montenegro",
+    "GDP (nominal, 2023)": "$7,530,593,375",
+    "GDP (abbrev.)": "7.531 billion",
+    "GDP Growth": "6.34%",
+    "Population 2023": "633,552",
+    "GDP per capita": "$11,886",
+    "Share of World GDP": "0.0071%"
+  },
+  {
+    "#": "148",
+    "Country": "Barbados",
+    "GDP (nominal, 2023)": "$6,720,733,200",
+    "GDP (abbrev.)": "6.721 billion",
+    "GDP Growth": "4.09%",
+    "Population 2023": "282,336",
+    "GDP per capita": "$23,804",
+    "Share of World GDP": "0.0063%"
+  },
+  {
+    "#": "149",
+    "Country": "Maldives",
+    "GDP (nominal, 2023)": "$6,590,894,302",
+    "GDP (abbrev.)": "6.591 billion",
+    "GDP Growth": "4.73%",
+    "Population 2023": "525,994",
+    "GDP per capita": "$12,530",
+    "Share of World GDP": "0.0062%"
+  },
+  {
+    "#": "150",
+    "Country": "Sierra Leone",
+    "GDP (nominal, 2023)": "$6,411,869,546",
+    "GDP (abbrev.)": "6.412 billion",
+    "GDP Growth": "5.71%",
+    "Population 2023": "8,460,512",
+    "GDP per capita": "$758",
+    "Share of World GDP": "0.0060%"
+  },
+  {
+    "#": "151",
+    "Country": "Fiji",
+    "GDP (nominal, 2023)": "$5,442,046,565",
+    "GDP (abbrev.)": "5.442 billion",
+    "GDP Growth": "7.52%",
+    "Population 2023": "924,145",
+    "GDP per capita": "$5,889",
+    "Share of World GDP": "0.0051%"
+  },
+  {
+    "#": "152",
+    "Country": "Eswatini",
+    "GDP (nominal, 2023)": "$4,442,875,788",
+    "GDP (abbrev.)": "4.443 billion",
+    "GDP Growth": "5.01%",
+    "Population 2023": "1,230,506",
+    "GDP per capita": "$3,611",
+    "Share of World GDP": "0.0042%"
+  },
+  {
+    "#": "153",
+    "Country": "Liberia",
+    "GDP (nominal, 2023)": "$4,240,000,000",
+    "GDP (abbrev.)": "4.24 billion",
+    "GDP Growth": "4.68%",
+    "Population 2023": "5,493,031",
+    "GDP per capita": "$772",
+    "Share of World GDP": "0.0040%"
+  },
+  {
+    "#": "154",
+    "Country": "Andorra",
+    "GDP (nominal, 2023)": "$3,785,067,332",
+    "GDP (abbrev.)": "3.785 billion",
+    "GDP Growth": "2.58%",
+    "Population 2023": "80,856",
+    "GDP per capita": "$46,812",
+    "Share of World GDP": "0.0036%"
+  },
+  {
+    "#": "155",
+    "Country": "Aruba",
+    "GDP (nominal, 2023)": "$3,648,573,136",
+    "GDP (abbrev.)": "3.649 billion",
+    "GDP Growth": "4.26%",
+    "Population 2023": "107,939",
+    "GDP per capita": "$33,802",
+    "Share of World GDP": "0.0034%"
+  },
+  {
+    "#": "156",
+    "Country": "Suriname",
+    "GDP (nominal, 2023)": "$3,455,146,281",
+    "GDP (abbrev.)": "3.455 billion",
+    "GDP Growth": "2.54%",
+    "Population 2023": "628,886",
+    "GDP per capita": "$5,494",
+    "Share of World GDP": "0.0033%"
+  },
+  {
+    "#": "157",
+    "Country": "Belize",
+    "GDP (nominal, 2023)": "$3,066,850,000",
+    "GDP (abbrev.)": "3.067 billion",
+    "GDP Growth": "1.15%",
+    "Population 2023": "411,106",
+    "GDP per capita": "$7,460",
+    "Share of World GDP": "0.0029%"
+  },
+  {
+    "#": "158",
+    "Country": "Burundi",
+    "GDP (nominal, 2023)": "$2,642,161,669",
+    "GDP (abbrev.)": "2.642 billion",
+    "GDP Growth": "2.7%",
+    "Population 2023": "13,689,450",
+    "GDP per capita": "$193",
+    "Share of World GDP": "0.0025%"
+  },
+  {
+    "#": "159",
+    "Country": "Central African Republic",
+    "GDP (nominal, 2023)": "$2,555,492,085",
+    "GDP (abbrev.)": "2.555 billion",
+    "GDP Growth": "0.87%",
+    "Population 2023": "5,152,421",
+    "GDP per capita": "$496",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "160",
+    "Country": "Cabo Verde",
+    "GDP (nominal, 2023)": "$2,533,819,406",
+    "GDP (abbrev.)": "2.534 billion",
+    "GDP Growth": "5.48%",
+    "Population 2023": "522,331",
+    "GDP per capita": "$4,851",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "161",
+    "Country": "Saint Lucia",
+    "GDP (nominal, 2023)": "$2,430,148,148",
+    "GDP (abbrev.)": "2.43 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "179,285",
+    "GDP per capita": "$13,555",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "162",
+    "Country": "Gambia",
+    "GDP (nominal, 2023)": "$2,396,111,022",
+    "GDP (abbrev.)": "2.396 billion",
+    "GDP Growth": "4.8%",
+    "Population 2023": "2,697,845",
+    "GDP per capita": "$888",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "163",
+    "Country": "Seychelles",
+    "GDP (nominal, 2023)": "$2,141,450,171",
+    "GDP (abbrev.)": "2.141 billion",
+    "GDP Growth": "3.16%",
+    "Population 2023": "127,951",
+    "GDP per capita": "$16,736",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "164",
+    "Country": "Lesotho",
+    "GDP (nominal, 2023)": "$2,117,962,451",
+    "GDP (abbrev.)": "2.118 billion",
+    "GDP Growth": "1.83%",
+    "Population 2023": "2,311,472",
+    "GDP per capita": "$916",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "165",
+    "Country": "Timor-Leste",
+    "GDP (nominal, 2023)": "$2,079,916,900",
+    "GDP (abbrev.)": "2.08 billion",
+    "GDP Growth": "−18.12%",
+    "Population 2023": "1,384,286",
+    "GDP per capita": "$1,503",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "166",
+    "Country": "Guinea-Bissau",
+    "GDP (nominal, 2023)": "$2,048,348,108",
+    "GDP (abbrev.)": "2.048 billion",
+    "GDP Growth": "5.2%",
+    "Population 2023": "2,153,339",
+    "GDP per capita": "$951",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "167",
+    "Country": "Antigua and Barbuda",
+    "GDP (nominal, 2023)": "$2,033,085,185",
+    "GDP (abbrev.)": "2.033 billion",
+    "GDP Growth": "3.86%",
+    "Population 2023": "93,316",
+    "GDP per capita": "$21,787",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "168",
+    "Country": "Solomon Islands",
+    "GDP (nominal, 2023)": "$1,633,319,401",
+    "GDP (abbrev.)": "1.633 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "800,005",
+    "GDP per capita": "$2,042",
+    "Share of World GDP": "0.0015%"
+  },
+  {
+    "#": "169",
+    "Country": "Comoros",
+    "GDP (nominal, 2023)": "$1,352,380,971",
+    "GDP (abbrev.)": "1.352 billion",
+    "GDP Growth": "3%",
+    "Population 2023": "850,387",
+    "GDP per capita": "$1,590",
+    "Share of World GDP": "0.0013%"
+  },
+  {
+    "#": "170",
+    "Country": "Grenada",
+    "GDP (nominal, 2023)": "$1,316,733,333",
+    "GDP (abbrev.)": "1.317 billion",
+    "GDP Growth": "3.57%",
+    "Population 2023": "117,081",
+    "GDP per capita": "$11,246",
+    "Share of World GDP": "0.0012%"
+  },
+  {
+    "#": "171",
+    "Country": "Vanuatu",
+    "GDP (nominal, 2023)": "$1,126,313,359",
+    "GDP (abbrev.)": "1.126 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "320,409",
+    "GDP per capita": "$3,515",
+    "Share of World GDP": "0.0011%"
+  },
+  {
+    "#": "172",
+    "Country": "St. Vincent & Grenadines",
+    "GDP (nominal, 2023)": "$1,065,962,963",
+    "GDP (abbrev.)": "1.066 billion",
+    "GDP Growth": "6.02%",
+    "Population 2023": "101,323",
+    "GDP per capita": "$10,520",
+    "Share of World GDP": "0.0010%"
+  },
+  {
+    "#": "173",
+    "Country": "Saint Kitts & Nevis",
+    "GDP (nominal, 2023)": "$1,055,499,778",
+    "GDP (abbrev.)": "1.055 billion",
+    "GDP Growth": "2.28%",
+    "Population 2023": "46,758",
+    "GDP per capita": "$22,574",
+    "Share of World GDP": "0.00099%"
+  },
+  {
+    "#": "174",
+    "Country": "Samoa",
+    "GDP (nominal, 2023)": "$938,189,444",
+    "GDP (abbrev.)": "938.189 million",
+    "GDP Growth": "8.58%",
+    "Population 2023": "216,663",
+    "GDP per capita": "$4,330",
+    "Share of World GDP": "0.00088%"
+  },
+  {
+    "#": "175",
+    "Country": "Sao Tome & Principe",
+    "GDP (nominal, 2023)": "$678,976,265",
+    "GDP (abbrev.)": "678.976 million",
+    "GDP Growth": "0.37%",
+    "Population 2023": "230,871",
+    "GDP per capita": "$2,941",
+    "Share of World GDP": "0.00064%"
+  },
+  {
+    "#": "176",
+    "Country": "Dominica",
+    "GDP (nominal, 2023)": "$653,992,593",
+    "GDP (abbrev.)": "653.993 million",
+    "GDP Growth": "4.71%",
+    "Population 2023": "66,510",
+    "GDP per capita": "$9,833",
+    "Share of World GDP": "0.00062%"
+  },
+  {
+    "#": "177",
+    "Country": "Micronesia",
+    "GDP (nominal, 2023)": "$460,000,000",
+    "GDP (abbrev.)": "460 million",
+    "GDP Growth": "0.78%",
+    "Population 2023": "112,630",
+    "GDP per capita": "$4,084",
+    "Share of World GDP": "0.00043%"
+  },
+  {
+    "#": "178",
+    "Country": "Palau",
+    "GDP (nominal, 2023)": "$281,849,063",
+    "GDP (abbrev.)": "281.849 million",
+    "GDP Growth": "1.88%",
+    "Population 2023": "17,727",
+    "GDP per capita": "$15,899",
+    "Share of World GDP": "0.00027%"
+  },
+  {
+    "#": "179",
+    "Country": "Kiribati",
+    "GDP (nominal, 2023)": "$279,208,903",
+    "GDP (abbrev.)": "279.209 million",
+    "GDP Growth": "4.12%",
+    "Population 2023": "132,530",
+    "GDP per capita": "$2,107",
+    "Share of World GDP": "0.00026%"
+  },
+  {
+    "#": "180",
+    "Country": "Marshall Islands",
+    "GDP (nominal, 2023)": "$259,300,000",
+    "GDP (abbrev.)": "259.3 million",
+    "GDP Growth": "−3.93%",
+    "Population 2023": "38,827",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.00024%"
+  },
+  {
+    "#": "181",
+    "Country": "Tuvalu",
+    "GDP (nominal, 2023)": "$62,280,312",
+    "GDP (abbrev.)": "62.28 million",
+    "GDP Growth": "3.85%",
+    "Population 2023": "9,816",
+    "GDP per capita": "$6,345",
+    "Share of World GDP": "0.000059%"
+  }
+][
+  {
+    "#": "1",
+    "Country": "United States",
+    "GDP (nominal, 2023)": "$27,720,700,000,000",
+    "GDP (abbrev.)": "27.721 trillion",
+    "GDP Growth": "2.89%",
+    "Population 2023": "343,477,335",
+    "GDP per capita": "$80,706",
+    "Share of World GDP": "26.11%"
+  },
+  {
+    "#": "2",
+    "Country": "China",
+    "GDP (nominal, 2023)": "$17,794,800,000,000",
+    "GDP (abbrev.)": "17.795 trillion",
+    "GDP Growth": "5.25%",
+    "Population 2023": "1,422,584,933",
+    "GDP per capita": "$12,509",
+    "Share of World GDP": "16.76%"
+  },
+  {
+    "#": "3",
+    "Country": "Germany",
+    "GDP (nominal, 2023)": "$4,525,700,000,000",
+    "GDP (abbrev.)": "4.526 trillion",
+    "GDP Growth": "−0.27%",
+    "Population 2023": "84,548,231",
+    "GDP per capita": "$53,528",
+    "Share of World GDP": "4.26%"
+  },
+  {
+    "#": "4",
+    "Country": "Japan",
+    "GDP (nominal, 2023)": "$4,204,490,000,000",
+    "GDP (abbrev.)": "4.204 trillion",
+    "GDP Growth": "1.68%",
+    "Population 2023": "124,370,947",
+    "GDP per capita": "$33,806",
+    "Share of World GDP": "3.96%"
+  },
+  {
+    "#": "5",
+    "Country": "India",
+    "GDP (nominal, 2023)": "$3,567,550,000,000",
+    "GDP (abbrev.)": "3.568 trillion",
+    "GDP Growth": "8.15%",
+    "Population 2023": "1,438,069,596",
+    "GDP per capita": "$2,481",
+    "Share of World GDP": "3.36%"
+  },
+  {
+    "#": "6",
+    "Country": "United Kingdom",
+    "GDP (nominal, 2023)": "$3,380,850,000,000",
+    "GDP (abbrev.)": "3.381 trillion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "68,682,962",
+    "GDP per capita": "$49,224",
+    "Share of World GDP": "3.18%"
+  },
+  {
+    "#": "7",
+    "Country": "France",
+    "GDP (nominal, 2023)": "$3,051,830,000,000",
+    "GDP (abbrev.)": "3.052 trillion",
+    "GDP Growth": "0.94%",
+    "Population 2023": "66,438,822",
+    "GDP per capita": "$45,934",
+    "Share of World GDP": "2.87%"
+  },
+  {
+    "#": "8",
+    "Country": "Italy",
+    "GDP (nominal, 2023)": "$2,300,940,000,000",
+    "GDP (abbrev.)": "2.301 trillion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "59,499,453",
+    "GDP per capita": "$38,672",
+    "Share of World GDP": "2.17%"
+  },
+  {
+    "#": "9",
+    "Country": "Brazil",
+    "GDP (nominal, 2023)": "$2,173,670,000,000",
+    "GDP (abbrev.)": "2.174 trillion",
+    "GDP Growth": "2.91%",
+    "Population 2023": "211,140,729",
+    "GDP per capita": "$10,295",
+    "Share of World GDP": "2.05%"
+  },
+  {
+    "#": "10",
+    "Country": "Canada",
+    "GDP (nominal, 2023)": "$2,142,470,000,000",
+    "GDP (abbrev.)": "2.142 trillion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "39,299,105",
+    "GDP per capita": "$54,517",
+    "Share of World GDP": "2.02%"
+  },
+  {
+    "#": "11",
+    "Country": "Russia",
+    "GDP (nominal, 2023)": "$2,021,420,000,000",
+    "GDP (abbrev.)": "2.021 trillion",
+    "GDP Growth": "3.6%",
+    "Population 2023": "145,440,500",
+    "GDP per capita": "$13,899",
+    "Share of World GDP": "1.90%"
+  },
+  {
+    "#": "12",
+    "Country": "Mexico",
+    "GDP (nominal, 2023)": "$1,789,110,000,000",
+    "GDP (abbrev.)": "1.789 trillion",
+    "GDP Growth": "3.2%",
+    "Population 2023": "129,739,759",
+    "GDP per capita": "$13,790",
+    "Share of World GDP": "1.69%"
+  },
+  {
+    "#": "13",
+    "Country": "Australia",
+    "GDP (nominal, 2023)": "$1,728,060,000,000",
+    "GDP (abbrev.)": "1.728 trillion",
+    "GDP Growth": "3.44%",
+    "Population 2023": "26,451,124",
+    "GDP per capita": "$65,330",
+    "Share of World GDP": "1.63%"
+  },
+  {
+    "#": "14",
+    "Country": "South Korea",
+    "GDP (nominal, 2023)": "$1,712,790,000,000",
+    "GDP (abbrev.)": "1.713 trillion",
+    "GDP Growth": "1.36%",
+    "Population 2023": "51,748,739",
+    "GDP per capita": "$33,098",
+    "Share of World GDP": "1.61%"
+  },
+  {
+    "#": "15",
+    "Country": "Spain",
+    "GDP (nominal, 2023)": "$1,620,090,000,000",
+    "GDP (abbrev.)": "1.62 trillion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "47,911,579",
+    "GDP per capita": "$33,814",
+    "Share of World GDP": "1.53%"
+  },
+  {
+    "#": "16",
+    "Country": "Indonesia",
+    "GDP (nominal, 2023)": "$1,371,170,000,000",
+    "GDP (abbrev.)": "1.371 trillion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "281,190,067",
+    "GDP per capita": "$4,876",
+    "Share of World GDP": "1.29%"
+  },
+  {
+    "#": "17",
+    "Country": "Netherlands",
+    "GDP (nominal, 2023)": "$1,154,360,000,000",
+    "GDP (abbrev.)": "1.154 trillion",
+    "GDP Growth": "0.07%",
+    "Population 2023": "18,092,524",
+    "GDP per capita": "$63,803",
+    "Share of World GDP": "1.09%"
+  },
+  {
+    "#": "18",
+    "Country": "Turkey",
+    "GDP (nominal, 2023)": "$1,118,250,000,000",
+    "GDP (abbrev.)": "1.118 trillion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "87,270,501",
+    "GDP per capita": "$12,814",
+    "Share of World GDP": "1.05%"
+  },
+  {
+    "#": "19",
+    "Country": "Saudi Arabia",
+    "GDP (nominal, 2023)": "$1,067,580,000,000",
+    "GDP (abbrev.)": "1.068 trillion",
+    "GDP Growth": "−0.76%",
+    "Population 2023": "33,264,292",
+    "GDP per capita": "$32,094",
+    "Share of World GDP": "1.01%"
+  },
+  {
+    "#": "20",
+    "Country": "Switzerland",
+    "GDP (nominal, 2023)": "$884,940,000,000",
+    "GDP (abbrev.)": "884.94 billion",
+    "GDP Growth": "0.72%",
+    "Population 2023": "8,870,561",
+    "GDP per capita": "$99,761",
+    "Share of World GDP": "0.83%"
+  },
+  {
+    "#": "21",
+    "Country": "Poland",
+    "GDP (nominal, 2023)": "$809,201,000,000",
+    "GDP (abbrev.)": "809.201 billion",
+    "GDP Growth": "0.14%",
+    "Population 2023": "38,762,844",
+    "GDP per capita": "$20,876",
+    "Share of World GDP": "0.76%"
+  },
+  {
+    "#": "22",
+    "Country": "Argentina",
+    "GDP (nominal, 2023)": "$646,075,000,000",
+    "GDP (abbrev.)": "646.075 billion",
+    "GDP Growth": "−1.61%",
+    "Population 2023": "45,538,401",
+    "GDP per capita": "$14,187",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "23",
+    "Country": "Belgium",
+    "GDP (nominal, 2023)": "$644,783,000,000",
+    "GDP (abbrev.)": "644.783 billion",
+    "GDP Growth": "1.25%",
+    "Population 2023": "11,712,893",
+    "GDP per capita": "$55,049",
+    "Share of World GDP": "0.61%"
+  },
+  {
+    "#": "24",
+    "Country": "Sweden",
+    "GDP (nominal, 2023)": "$584,960,000,000",
+    "GDP (abbrev.)": "584.96 billion",
+    "GDP Growth": "−0.31%",
+    "Population 2023": "10,551,494",
+    "GDP per capita": "$55,439",
+    "Share of World GDP": "0.55%"
+  },
+  {
+    "#": "25",
+    "Country": "Ireland",
+    "GDP (nominal, 2023)": "$551,395,000,000",
+    "GDP (abbrev.)": "551.395 billion",
+    "GDP Growth": "−5.53%",
+    "Population 2023": "5,196,630",
+    "GDP per capita": "$106,106",
+    "Share of World GDP": "0.52%"
+  },
+  {
+    "#": "26",
+    "Country": "Thailand",
+    "GDP (nominal, 2023)": "$514,969,000,000",
+    "GDP (abbrev.)": "514.969 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "71,702,435",
+    "GDP per capita": "$7,182",
+    "Share of World GDP": "0.49%"
+  },
+  {
+    "#": "27",
+    "Country": "United Arab Emirates",
+    "GDP (nominal, 2023)": "$514,130,000,000",
+    "GDP (abbrev.)": "514.13 billion",
+    "GDP Growth": "3.62%",
+    "Population 2023": "10,642,081",
+    "GDP per capita": "$48,311",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "28",
+    "Country": "Israel",
+    "GDP (nominal, 2023)": "$513,611,000,000",
+    "GDP (abbrev.)": "513.611 billion",
+    "GDP Growth": "2.42%",
+    "Population 2023": "9,256,314",
+    "GDP per capita": "$55,488",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "29",
+    "Country": "Austria",
+    "GDP (nominal, 2023)": "$511,685,000,000",
+    "GDP (abbrev.)": "511.685 billion",
+    "GDP Growth": "−0.95%",
+    "Population 2023": "9,130,429",
+    "GDP per capita": "$56,042",
+    "Share of World GDP": "0.48%"
+  },
+  {
+    "#": "30",
+    "Country": "Singapore",
+    "GDP (nominal, 2023)": "$501,428,000,000",
+    "GDP (abbrev.)": "501.428 billion",
+    "GDP Growth": "1.07%",
+    "Population 2023": "5,789,090",
+    "GDP per capita": "$86,616",
+    "Share of World GDP": "0.47%"
+  },
+  {
+    "#": "31",
+    "Country": "Norway",
+    "GDP (nominal, 2023)": "$485,311,000,000",
+    "GDP (abbrev.)": "485.311 billion",
+    "GDP Growth": "0.48%",
+    "Population 2023": "5,519,167",
+    "GDP per capita": "$87,932",
+    "Share of World GDP": "0.46%"
+  },
+  {
+    "#": "32",
+    "Country": "Bangladesh",
+    "GDP (nominal, 2023)": "$437,415,000,000",
+    "GDP (abbrev.)": "437.415 billion",
+    "GDP Growth": "5.78%",
+    "Population 2023": "171,466,990",
+    "GDP per capita": "$2,551",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "33",
+    "Country": "Philippines",
+    "GDP (nominal, 2023)": "$437,146,000,000",
+    "GDP (abbrev.)": "437.146 billion",
+    "GDP Growth": "5.55%",
+    "Population 2023": "114,891,199",
+    "GDP per capita": "$3,805",
+    "Share of World GDP": "0.41%"
+  },
+  {
+    "#": "34",
+    "Country": "Vietnam",
+    "GDP (nominal, 2023)": "$429,717,000,000",
+    "GDP (abbrev.)": "429.717 billion",
+    "GDP Growth": "5.05%",
+    "Population 2023": "100,352,192",
+    "GDP per capita": "$4,282",
+    "Share of World GDP": "0.40%"
+  },
+  {
+    "#": "35",
+    "Country": "Denmark",
+    "GDP (nominal, 2023)": "$407,092,000,000",
+    "GDP (abbrev.)": "407.092 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "5,948,136",
+    "GDP per capita": "$68,440",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "36",
+    "Country": "Iran",
+    "GDP (nominal, 2023)": "$404,626,000,000",
+    "GDP (abbrev.)": "404.626 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "90,608,707",
+    "GDP per capita": "$4,466",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "37",
+    "Country": "Malaysia",
+    "GDP (nominal, 2023)": "$399,705,000,000",
+    "GDP (abbrev.)": "399.705 billion",
+    "GDP Growth": "3.56%",
+    "Population 2023": "35,126,298",
+    "GDP per capita": "$11,379",
+    "Share of World GDP": "0.38%"
+  },
+  {
+    "#": "38",
+    "Country": "Egypt",
+    "GDP (nominal, 2023)": "$396,002,000,000",
+    "GDP (abbrev.)": "396.002 billion",
+    "GDP Growth": "3.76%",
+    "Population 2023": "114,535,772",
+    "GDP per capita": "$3,457",
+    "Share of World GDP": "0.37%"
+  },
+  {
+    "#": "39",
+    "Country": "Hong Kong",
+    "GDP (nominal, 2023)": "$380,812,000,000",
+    "GDP (abbrev.)": "380.812 billion",
+    "GDP Growth": "3.28%",
+    "Population 2023": "7,442,734",
+    "GDP per capita": "$51,166",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "40",
+    "Country": "South Africa",
+    "GDP (nominal, 2023)": "$380,699,000,000",
+    "GDP (abbrev.)": "380.699 billion",
+    "GDP Growth": "0.7%",
+    "Population 2023": "63,212,384",
+    "GDP per capita": "$6,023",
+    "Share of World GDP": "0.36%"
+  },
+  {
+    "#": "41",
+    "Country": "Nigeria",
+    "GDP (nominal, 2023)": "$363,846,000,000",
+    "GDP (abbrev.)": "363.846 billion",
+    "GDP Growth": "2.86%",
+    "Population 2023": "227,882,945",
+    "GDP per capita": "$1,597",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "42",
+    "Country": "Colombia",
+    "GDP (nominal, 2023)": "$363,494,000,000",
+    "GDP (abbrev.)": "363.494 billion",
+    "GDP Growth": "0.61%",
+    "Population 2023": "52,321,152",
+    "GDP per capita": "$6,947",
+    "Share of World GDP": "0.34%"
+  },
+  {
+    "#": "43",
+    "Country": "Romania",
+    "GDP (nominal, 2023)": "$350,776,000,000",
+    "GDP (abbrev.)": "350.776 billion",
+    "GDP Growth": "2.4%",
+    "Population 2023": "19,118,479",
+    "GDP per capita": "$18,347",
+    "Share of World GDP": "0.33%"
+  },
+  {
+    "#": "44",
+    "Country": "Czech Republic (Czechia)",
+    "GDP (nominal, 2023)": "$343,208,000,000",
+    "GDP (abbrev.)": "343.208 billion",
+    "GDP Growth": "−0.09%",
+    "Population 2023": "10,809,716",
+    "GDP per capita": "$31,750",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "45",
+    "Country": "Pakistan",
+    "GDP (nominal, 2023)": "$337,912,000,000",
+    "GDP (abbrev.)": "337.912 billion",
+    "GDP Growth": "−0.04%",
+    "Population 2023": "247,504,495",
+    "GDP per capita": "$1,365",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "46",
+    "Country": "Chile",
+    "GDP (nominal, 2023)": "$335,533,000,000",
+    "GDP (abbrev.)": "335.533 billion",
+    "GDP Growth": "0.22%",
+    "Population 2023": "19,658,835",
+    "GDP per capita": "$17,068",
+    "Share of World GDP": "0.32%"
+  },
+  {
+    "#": "47",
+    "Country": "Finland",
+    "GDP (nominal, 2023)": "$295,532,000,000",
+    "GDP (abbrev.)": "295.532 billion",
+    "GDP Growth": "−1.16%",
+    "Population 2023": "5,601,185",
+    "GDP per capita": "$52,762",
+    "Share of World GDP": "0.28%"
+  },
+  {
+    "#": "48",
+    "Country": "Portugal",
+    "GDP (nominal, 2023)": "$289,114,000,000",
+    "GDP (abbrev.)": "289.114 billion",
+    "GDP Growth": "2.53%",
+    "Population 2023": "10,430,738",
+    "GDP per capita": "$27,718",
+    "Share of World GDP": "0.27%"
+  },
+  {
+    "#": "49",
+    "Country": "Peru",
+    "GDP (nominal, 2023)": "$267,603,000,000",
+    "GDP (abbrev.)": "267.603 billion",
+    "GDP Growth": "−0.55%",
+    "Population 2023": "33,845,617",
+    "GDP per capita": "$7,907",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "50",
+    "Country": "Kazakhstan",
+    "GDP (nominal, 2023)": "$262,642,000,000",
+    "GDP (abbrev.)": "262.642 billion",
+    "GDP Growth": "5.1%",
+    "Population 2023": "20,330,104",
+    "GDP per capita": "$12,919",
+    "Share of World GDP": "0.25%"
+  },
+  {
+    "#": "51",
+    "Country": "New Zealand",
+    "GDP (nominal, 2023)": "$252,176,000,000",
+    "GDP (abbrev.)": "252.176 billion",
+    "GDP Growth": "0.73%",
+    "Population 2023": "5,172,836",
+    "GDP per capita": "$48,750",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "52",
+    "Country": "Iraq",
+    "GDP (nominal, 2023)": "$250,843,000,000",
+    "GDP (abbrev.)": "250.843 billion",
+    "GDP Growth": "−2.94%",
+    "Population 2023": "45,074,049",
+    "GDP per capita": "$5,565",
+    "Share of World GDP": "0.24%"
+  },
+  {
+    "#": "53",
+    "Country": "Algeria",
+    "GDP (nominal, 2023)": "$247,626,000,000",
+    "GDP (abbrev.)": "247.626 billion",
+    "GDP Growth": "4.1%",
+    "Population 2023": "46,164,219",
+    "GDP per capita": "$5,364",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "54",
+    "Country": "Greece",
+    "GDP (nominal, 2023)": "$243,498,000,000",
+    "GDP (abbrev.)": "243.498 billion",
+    "GDP Growth": "2.33%",
+    "Population 2023": "10,242,908",
+    "GDP per capita": "$23,772",
+    "Share of World GDP": "0.23%"
+  },
+  {
+    "#": "55",
+    "Country": "Qatar",
+    "GDP (nominal, 2023)": "$213,003,000,000",
+    "GDP (abbrev.)": "213.003 billion",
+    "GDP Growth": "1.19%",
+    "Population 2023": "2,979,082",
+    "GDP per capita": "$71,500",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "56",
+    "Country": "Hungary",
+    "GDP (nominal, 2023)": "$212,389,000,000",
+    "GDP (abbrev.)": "212.389 billion",
+    "GDP Growth": "−0.91%",
+    "Population 2023": "9,686,463",
+    "GDP per capita": "$21,926",
+    "Share of World GDP": "0.20%"
+  },
+  {
+    "#": "57",
+    "Country": "Ukraine",
+    "GDP (nominal, 2023)": "$178,757,000,000",
+    "GDP (abbrev.)": "178.757 billion",
+    "GDP Growth": "5.32%",
+    "Population 2023": "37,732,836",
+    "GDP per capita": "$4,737",
+    "Share of World GDP": "0.17%"
+  },
+  {
+    "#": "58",
+    "Country": "Kuwait",
+    "GDP (nominal, 2023)": "$163,705,000,000",
+    "GDP (abbrev.)": "163.705 billion",
+    "GDP Growth": "−3.64%",
+    "Population 2023": "4,838,782",
+    "GDP per capita": "$33,832",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "59",
+    "Country": "Ethiopia",
+    "GDP (nominal, 2023)": "$163,698,000,000",
+    "GDP (abbrev.)": "163.698 billion",
+    "GDP Growth": "6.5%",
+    "Population 2023": "128,691,692",
+    "GDP per capita": "$1,272",
+    "Share of World GDP": "0.15%"
+  },
+  {
+    "#": "60",
+    "Country": "Morocco",
+    "GDP (nominal, 2023)": "$144,417,000,000",
+    "GDP (abbrev.)": "144.417 billion",
+    "GDP Growth": "3.4%",
+    "Population 2023": "37,712,505",
+    "GDP per capita": "$3,829",
+    "Share of World GDP": "0.14%"
+  },
+  {
+    "#": "61",
+    "Country": "Slovakia",
+    "GDP (nominal, 2023)": "$132,908,000,000",
+    "GDP (abbrev.)": "132.908 billion",
+    "GDP Growth": "1.38%",
+    "Population 2023": "5,518,055",
+    "GDP per capita": "$24,086",
+    "Share of World GDP": "0.13%"
+  },
+  {
+    "#": "62",
+    "Country": "Dominican Republic",
+    "GDP (nominal, 2023)": "$121,444,000,000",
+    "GDP (abbrev.)": "121.444 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "11,331,265",
+    "GDP per capita": "$10,718",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "63",
+    "Country": "Ecuador",
+    "GDP (nominal, 2023)": "$118,845,000,000",
+    "GDP (abbrev.)": "118.845 billion",
+    "GDP Growth": "2.36%",
+    "Population 2023": "17,980,083",
+    "GDP per capita": "$6,610",
+    "Share of World GDP": "0.11%"
+  },
+  {
+    "#": "64",
+    "Country": "Sudan",
+    "GDP (nominal, 2023)": "$109,266,000,000",
+    "GDP (abbrev.)": "109.266 billion",
+    "GDP Growth": "−20.11%",
+    "Population 2023": "50,042,791",
+    "GDP per capita": "$2,183",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "65",
+    "Country": "Oman",
+    "GDP (nominal, 2023)": "$108,811,000,000",
+    "GDP (abbrev.)": "108.811 billion",
+    "GDP Growth": "1.31%",
+    "Population 2023": "5,049,269",
+    "GDP per capita": "$21,550",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "66",
+    "Country": "Kenya",
+    "GDP (nominal, 2023)": "$108,039,000,000",
+    "GDP (abbrev.)": "108.039 billion",
+    "GDP Growth": "5.56%",
+    "Population 2023": "55,339,003",
+    "GDP per capita": "$1,952",
+    "Share of World GDP": "0.10%"
+  },
+  {
+    "#": "67",
+    "Country": "Guatemala",
+    "GDP (nominal, 2023)": "$104,450,000,000",
+    "GDP (abbrev.)": "104.45 billion",
+    "GDP Growth": "3.53%",
+    "Population 2023": "18,124,838",
+    "GDP per capita": "$5,763",
+    "Share of World GDP": "0.098%"
+  },
+  {
+    "#": "68",
+    "Country": "Bulgaria",
+    "GDP (nominal, 2023)": "$102,408,000,000",
+    "GDP (abbrev.)": "102.408 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "6,795,803",
+    "GDP per capita": "$15,069",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "69",
+    "Country": "Uzbekistan",
+    "GDP (nominal, 2023)": "$101,592,000,000",
+    "GDP (abbrev.)": "101.592 billion",
+    "GDP Growth": "6.29%",
+    "Population 2023": "35,652,307",
+    "GDP per capita": "$2,850",
+    "Share of World GDP": "0.096%"
+  },
+  {
+    "#": "70",
+    "Country": "Costa Rica",
+    "GDP (nominal, 2023)": "$86,497,941,439",
+    "GDP (abbrev.)": "86.498 billion",
+    "GDP Growth": "5.11%",
+    "Population 2023": "5,105,525",
+    "GDP per capita": "$16,942",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "71",
+    "Country": "Luxembourg",
+    "GDP (nominal, 2023)": "$85,755,006,124",
+    "GDP (abbrev.)": "85.755 billion",
+    "GDP Growth": "−1.1%",
+    "Population 2023": "665,098",
+    "GDP per capita": "$128,936",
+    "Share of World GDP": "0.081%"
+  },
+  {
+    "#": "72",
+    "Country": "Angola",
+    "GDP (nominal, 2023)": "$84,824,654,482",
+    "GDP (abbrev.)": "84.825 billion",
+    "GDP Growth": "1%",
+    "Population 2023": "36,749,906",
+    "GDP per capita": "$2,308",
+    "Share of World GDP": "0.080%"
+  },
+  {
+    "#": "73",
+    "Country": "Croatia",
+    "GDP (nominal, 2023)": "$84,393,795,502",
+    "GDP (abbrev.)": "84.394 billion",
+    "GDP Growth": "3.3%",
+    "Population 2023": "3,896,023",
+    "GDP per capita": "$21,662",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "74",
+    "Country": "Sri Lanka",
+    "GDP (nominal, 2023)": "$84,356,863,744",
+    "GDP (abbrev.)": "84.357 billion",
+    "GDP Growth": "−2.3%",
+    "Population 2023": "22,971,617",
+    "GDP per capita": "$3,672",
+    "Share of World GDP": "0.079%"
+  },
+  {
+    "#": "75",
+    "Country": "Panama",
+    "GDP (nominal, 2023)": "$83,318,176,900",
+    "GDP (abbrev.)": "83.318 billion",
+    "GDP Growth": "7.4%",
+    "Population 2023": "4,458,759",
+    "GDP per capita": "$18,686",
+    "Share of World GDP": "0.078%"
+  },
+  {
+    "#": "76",
+    "Country": "Serbia",
+    "GDP (nominal, 2023)": "$81,342,660,752",
+    "GDP (abbrev.)": "81.343 billion",
+    "GDP Growth": "3.85%",
+    "Population 2023": "6,773,201",
+    "GDP per capita": "$12,009",
+    "Share of World GDP": "0.077%"
+  },
+  {
+    "#": "77",
+    "Country": "Lithuania",
+    "GDP (nominal, 2023)": "$79,789,877,416",
+    "GDP (abbrev.)": "79.79 billion",
+    "GDP Growth": "0.34%",
+    "Population 2023": "2,854,099",
+    "GDP per capita": "$27,956",
+    "Share of World GDP": "0.075%"
+  },
+  {
+    "#": "78",
+    "Country": "Tanzania",
+    "GDP (nominal, 2023)": "$79,062,403,821",
+    "GDP (abbrev.)": "79.062 billion",
+    "GDP Growth": "5.07%",
+    "Population 2023": "66,617,606",
+    "GDP per capita": "$1,187",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "79",
+    "Country": "Côte d'Ivoire",
+    "GDP (nominal, 2023)": "$78,875,489,245",
+    "GDP (abbrev.)": "78.875 billion",
+    "GDP Growth": "6.2%",
+    "Population 2023": "31,165,654",
+    "GDP per capita": "$2,531",
+    "Share of World GDP": "0.074%"
+  },
+  {
+    "#": "80",
+    "Country": "Uruguay",
+    "GDP (nominal, 2023)": "$77,240,830,877",
+    "GDP (abbrev.)": "77.241 billion",
+    "GDP Growth": "0.37%",
+    "Population 2023": "3,388,081",
+    "GDP per capita": "$22,798",
+    "Share of World GDP": "0.073%"
+  },
+  {
+    "#": "81",
+    "Country": "Ghana",
+    "GDP (nominal, 2023)": "$76,370,396,722",
+    "GDP (abbrev.)": "76.37 billion",
+    "GDP Growth": "2.94%",
+    "Population 2023": "33,787,914",
+    "GDP per capita": "$2,260",
+    "Share of World GDP": "0.072%"
+  },
+  {
+    "#": "82",
+    "Country": "Azerbaijan",
+    "GDP (nominal, 2023)": "$72,356,176,471",
+    "GDP (abbrev.)": "72.356 billion",
+    "GDP Growth": "1.12%",
+    "Population 2023": "10,318,207",
+    "GDP per capita": "$7,012",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "83",
+    "Country": "Belarus",
+    "GDP (nominal, 2023)": "$71,857,382,746",
+    "GDP (abbrev.)": "71.857 billion",
+    "GDP Growth": "3.89%",
+    "Population 2023": "9,115,680",
+    "GDP per capita": "$7,883",
+    "Share of World GDP": "0.068%"
+  },
+  {
+    "#": "84",
+    "Country": "Slovenia",
+    "GDP (nominal, 2023)": "$69,148,468,417",
+    "GDP (abbrev.)": "69.148 billion",
+    "GDP Growth": "2.11%",
+    "Population 2023": "2,118,396",
+    "GDP per capita": "$32,642",
+    "Share of World GDP": "0.065%"
+  },
+  {
+    "#": "85",
+    "Country": "Myanmar",
+    "GDP (nominal, 2023)": "$66,757,619,000",
+    "GDP (abbrev.)": "66.758 billion",
+    "GDP Growth": "0.96%",
+    "Population 2023": "54,133,798",
+    "GDP per capita": "$1,233",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "86",
+    "Country": "DR Congo",
+    "GDP (nominal, 2023)": "$66,383,287,003",
+    "GDP (abbrev.)": "66.383 billion",
+    "GDP Growth": "8.56%",
+    "Population 2023": "105,789,731",
+    "GDP per capita": "$628",
+    "Share of World GDP": "0.063%"
+  },
+  {
+    "#": "87",
+    "Country": "Turkmenistan",
+    "GDP (nominal, 2023)": "$60,628,857,143",
+    "GDP (abbrev.)": "60.629 billion",
+    "GDP Growth": "6.3%",
+    "Population 2023": "7,364,438",
+    "GDP per capita": "$8,233",
+    "Share of World GDP": "0.057%"
+  },
+  {
+    "#": "88",
+    "Country": "Jordan",
+    "GDP (nominal, 2023)": "$50,967,475,352",
+    "GDP (abbrev.)": "50.967 billion",
+    "GDP Growth": "2.68%",
+    "Population 2023": "11,439,213",
+    "GDP per capita": "$4,456",
+    "Share of World GDP": "0.048%"
+  },
+  {
+    "#": "89",
+    "Country": "Cameroon",
+    "GDP (nominal, 2023)": "$49,279,410,983",
+    "GDP (abbrev.)": "49.279 billion",
+    "GDP Growth": "3.25%",
+    "Population 2023": "28,372,687",
+    "GDP per capita": "$1,737",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "90",
+    "Country": "Uganda",
+    "GDP (nominal, 2023)": "$48,768,955,863",
+    "GDP (abbrev.)": "48.769 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "48,656,601",
+    "GDP per capita": "$1,002",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "91",
+    "Country": "Tunisia",
+    "GDP (nominal, 2023)": "$48,529,595,417",
+    "GDP (abbrev.)": "48.53 billion",
+    "GDP Growth": "0.04%",
+    "Population 2023": "12,200,431",
+    "GDP per capita": "$3,978",
+    "Share of World GDP": "0.046%"
+  },
+  {
+    "#": "92",
+    "Country": "Bahrain",
+    "GDP (nominal, 2023)": "$46,079,867,021",
+    "GDP (abbrev.)": "46.08 billion",
+    "GDP Growth": "2.98%",
+    "Population 2023": "1,569,666",
+    "GDP per capita": "$29,356",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "93",
+    "Country": "Macao",
+    "GDP (nominal, 2023)": "$45,803,067,940",
+    "GDP (abbrev.)": "45.803 billion",
+    "GDP Growth": "75.06%",
+    "Population 2023": "713,912",
+    "GDP per capita": "$64,158",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "94",
+    "Country": "Bolivia",
+    "GDP (nominal, 2023)": "$45,135,398,009",
+    "GDP (abbrev.)": "45.135 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "12,244,159",
+    "GDP per capita": "$3,686",
+    "Share of World GDP": "0.043%"
+  },
+  {
+    "#": "95",
+    "Country": "Libya",
+    "GDP (nominal, 2023)": "$45,096,462,972",
+    "GDP (abbrev.)": "45.096 billion",
+    "GDP Growth": "10.16%",
+    "Population 2023": "7,305,659",
+    "GDP per capita": "$6,173",
+    "Share of World GDP": "0.042%"
+  },
+  {
+    "#": "96",
+    "Country": "Paraguay",
+    "GDP (nominal, 2023)": "$42,956,263,544",
+    "GDP (abbrev.)": "42.956 billion",
+    "GDP Growth": "4.71%",
+    "Population 2023": "6,844,146",
+    "GDP per capita": "$6,276",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "97",
+    "Country": "Cambodia",
+    "GDP (nominal, 2023)": "$42,335,646,896",
+    "GDP (abbrev.)": "42.336 billion",
+    "GDP Growth": "4.96%",
+    "Population 2023": "17,423,880",
+    "GDP per capita": "$2,430",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "98",
+    "Country": "Latvia",
+    "GDP (nominal, 2023)": "$42,247,850,065",
+    "GDP (abbrev.)": "42.248 billion",
+    "GDP Growth": "1.71%",
+    "Population 2023": "1,882,396",
+    "GDP per capita": "$22,444",
+    "Share of World GDP": "0.040%"
+  },
+  {
+    "#": "99",
+    "Country": "Estonia",
+    "GDP (nominal, 2023)": "$41,291,245,222",
+    "GDP (abbrev.)": "41.291 billion",
+    "GDP Growth": "−3.02%",
+    "Population 2023": "1,367,196",
+    "GDP per capita": "$30,201",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "100",
+    "Country": "Nepal",
+    "GDP (nominal, 2023)": "$40,908,073,367",
+    "GDP (abbrev.)": "40.908 billion",
+    "GDP Growth": "1.95%",
+    "Population 2023": "29,694,614",
+    "GDP per capita": "$1,378",
+    "Share of World GDP": "0.039%"
+  },
+  {
+    "#": "101",
+    "Country": "Zimbabwe",
+    "GDP (nominal, 2023)": "$35,231,367,886",
+    "GDP (abbrev.)": "35.231 billion",
+    "GDP Growth": "5.34%",
+    "Population 2023": "16,340,822",
+    "GDP per capita": "$2,156",
+    "Share of World GDP": "0.033%"
+  },
+  {
+    "#": "102",
+    "Country": "Honduras",
+    "GDP (nominal, 2023)": "$34,400,509,852",
+    "GDP (abbrev.)": "34.401 billion",
+    "GDP Growth": "3.58%",
+    "Population 2023": "10,644,851",
+    "GDP per capita": "$3,232",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "103",
+    "Country": "El Salvador",
+    "GDP (nominal, 2023)": "$34,015,620,000",
+    "GDP (abbrev.)": "34.016 billion",
+    "GDP Growth": "3.51%",
+    "Population 2023": "6,309,624",
+    "GDP per capita": "$5,391",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "104",
+    "Country": "Cyprus",
+    "GDP (nominal, 2023)": "$33,886,930,712",
+    "GDP (abbrev.)": "33.887 billion",
+    "GDP Growth": "2.61%",
+    "Population 2023": "1,344,976",
+    "GDP per capita": "$25,195",
+    "Share of World GDP": "0.032%"
+  },
+  {
+    "#": "105",
+    "Country": "Iceland",
+    "GDP (nominal, 2023)": "$31,325,116,556",
+    "GDP (abbrev.)": "31.325 billion",
+    "GDP Growth": "5.04%",
+    "Population 2023": "387,558",
+    "GDP per capita": "$80,827",
+    "Share of World GDP": "0.030%"
+  },
+  {
+    "#": "106",
+    "Country": "Senegal",
+    "GDP (nominal, 2023)": "$30,848,333,084",
+    "GDP (abbrev.)": "30.848 billion",
+    "GDP Growth": "4.58%",
+    "Population 2023": "18,077,573",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "107",
+    "Country": "Georgia",
+    "GDP (nominal, 2023)": "$30,777,833,585",
+    "GDP (abbrev.)": "30.778 billion",
+    "GDP Growth": "7.83%",
+    "Population 2023": "3,807,492",
+    "GDP per capita": "$8,083",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "108",
+    "Country": "Papua New Guinea",
+    "GDP (nominal, 2023)": "$30,729,242,919",
+    "GDP (abbrev.)": "30.729 billion",
+    "GDP Growth": "3.04%",
+    "Population 2023": "10,389,635",
+    "GDP per capita": "$2,958",
+    "Share of World GDP": "0.029%"
+  },
+  {
+    "#": "109",
+    "Country": "Zambia",
+    "GDP (nominal, 2023)": "$27,577,956,471",
+    "GDP (abbrev.)": "27.578 billion",
+    "GDP Growth": "5.37%",
+    "Population 2023": "20,723,965",
+    "GDP per capita": "$1,331",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "110",
+    "Country": "Bosnia and Herzegovina",
+    "GDP (nominal, 2023)": "$27,514,782,476",
+    "GDP (abbrev.)": "27.515 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "3,185,073",
+    "GDP per capita": "$8,639",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "111",
+    "Country": "Trinidad and Tobago",
+    "GDP (nominal, 2023)": "$27,372,285,698",
+    "GDP (abbrev.)": "27.372 billion",
+    "GDP Growth": "1.35%",
+    "Population 2023": "1,502,932",
+    "GDP per capita": "$18,213",
+    "Share of World GDP": "0.026%"
+  },
+  {
+    "#": "112",
+    "Country": "Armenia",
+    "GDP (nominal, 2023)": "$24,085,749,592",
+    "GDP (abbrev.)": "24.086 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "2,943,393",
+    "GDP per capita": "$8,183",
+    "Share of World GDP": "0.023%"
+  },
+  {
+    "#": "113",
+    "Country": "Albania",
+    "GDP (nominal, 2023)": "$23,547,179,830",
+    "GDP (abbrev.)": "23.547 billion",
+    "GDP Growth": "3.94%",
+    "Population 2023": "2,811,655",
+    "GDP per capita": "$8,375",
+    "Share of World GDP": "0.022%"
+  },
+  {
+    "#": "114",
+    "Country": "Malta",
+    "GDP (nominal, 2023)": "$22,328,640,242",
+    "GDP (abbrev.)": "22.329 billion",
+    "GDP Growth": "7.5%",
+    "Population 2023": "532,956",
+    "GDP per capita": "$41,896",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "115",
+    "Country": "Guinea",
+    "GDP (nominal, 2023)": "$22,199,409,741",
+    "GDP (abbrev.)": "22.199 billion",
+    "GDP Growth": "6.74%",
+    "Population 2023": "14,405,468",
+    "GDP per capita": "$1,541",
+    "Share of World GDP": "0.021%"
+  },
+  {
+    "#": "116",
+    "Country": "Mozambique",
+    "GDP (nominal, 2023)": "$20,954,220,984",
+    "GDP (abbrev.)": "20.954 billion",
+    "GDP Growth": "5.44%",
+    "Population 2023": "33,635,160",
+    "GDP per capita": "$623",
+    "Share of World GDP": "0.020%"
+  },
+  {
+    "#": "117",
+    "Country": "Mali",
+    "GDP (nominal, 2023)": "$20,661,794,596",
+    "GDP (abbrev.)": "20.662 billion",
+    "GDP Growth": "4.66%",
+    "Population 2023": "23,769,127",
+    "GDP per capita": "$869",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "118",
+    "Country": "Mongolia",
+    "GDP (nominal, 2023)": "$20,325,121,394",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "7.42%",
+    "Population 2023": "3,431,932",
+    "GDP per capita": "$5,922",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "119",
+    "Country": "Burkina Faso",
+    "GDP (nominal, 2023)": "$20,324,617,845",
+    "GDP (abbrev.)": "20.325 billion",
+    "GDP Growth": "2.96%",
+    "Population 2023": "23,025,776",
+    "GDP per capita": "$883",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "120",
+    "Country": "Haiti",
+    "GDP (nominal, 2023)": "$19,850,829,758",
+    "GDP (abbrev.)": "19.851 billion",
+    "GDP Growth": "−1.86%",
+    "Population 2023": "11,637,398",
+    "GDP per capita": "$1,706",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "121",
+    "Country": "Benin",
+    "GDP (nominal, 2023)": "$19,676,049,076",
+    "GDP (abbrev.)": "19.676 billion",
+    "GDP Growth": "6.35%",
+    "Population 2023": "14,111,034",
+    "GDP per capita": "$1,394",
+    "Share of World GDP": "0.019%"
+  },
+  {
+    "#": "122",
+    "Country": "Jamaica",
+    "GDP (nominal, 2023)": "$19,423,355,409",
+    "GDP (abbrev.)": "19.423 billion",
+    "GDP Growth": "2.2%",
+    "Population 2023": "2,839,786",
+    "GDP per capita": "$6,840",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "123",
+    "Country": "Botswana",
+    "GDP (nominal, 2023)": "$19,396,084,498",
+    "GDP (abbrev.)": "19.396 billion",
+    "GDP Growth": "2.73%",
+    "Population 2023": "2,480,244",
+    "GDP per capita": "$7,820",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "124",
+    "Country": "Gabon",
+    "GDP (nominal, 2023)": "$19,388,402,542",
+    "GDP (abbrev.)": "19.388 billion",
+    "GDP Growth": "2.45%",
+    "Population 2023": "2,484,789",
+    "GDP per capita": "$7,803",
+    "Share of World GDP": "0.018%"
+  },
+  {
+    "#": "125",
+    "Country": "Nicaragua",
+    "GDP (nominal, 2023)": "$17,829,218,219",
+    "GDP (abbrev.)": "17.829 billion",
+    "GDP Growth": "4.57%",
+    "Population 2023": "6,823,613",
+    "GDP per capita": "$2,613",
+    "Share of World GDP": "0.017%"
+  },
+  {
+    "#": "126",
+    "Country": "State of Palestine",
+    "GDP (nominal, 2023)": "$17,420,800,000",
+    "GDP (abbrev.)": "17.421 billion",
+    "GDP Growth": "−5.41%",
+    "Population 2023": "5,409,202",
+    "GDP per capita": "$3,221",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "127",
+    "Country": "Afghanistan",
+    "GDP (nominal, 2023)": "$17,233,051,620",
+    "GDP (abbrev.)": "17.233 billion",
+    "GDP Growth": "2.71%",
+    "Population 2023": "41,454,761",
+    "GDP per capita": "$416",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "128",
+    "Country": "Guyana",
+    "GDP (nominal, 2023)": "$17,159,509,565",
+    "GDP (abbrev.)": "17.16 billion",
+    "GDP Growth": "33.8%",
+    "Population 2023": "826,353",
+    "GDP per capita": "$20,765",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "129",
+    "Country": "Niger",
+    "GDP (nominal, 2023)": "$16,819,170,421",
+    "GDP (abbrev.)": "16.819 billion",
+    "GDP Growth": "2.5%",
+    "Population 2023": "26,159,867",
+    "GDP per capita": "$643",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "130",
+    "Country": "Moldova",
+    "GDP (nominal, 2023)": "$16,539,436,547",
+    "GDP (abbrev.)": "16.539 billion",
+    "GDP Growth": "0.78%",
+    "Population 2023": "3,067,070",
+    "GDP per capita": "$5,393",
+    "Share of World GDP": "0.016%"
+  },
+  {
+    "#": "131",
+    "Country": "Laos",
+    "GDP (nominal, 2023)": "$15,843,155,731",
+    "GDP (abbrev.)": "15.843 billion",
+    "GDP Growth": "3.75%",
+    "Population 2023": "7,664,993",
+    "GDP per capita": "$2,067",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "132",
+    "Country": "Madagascar",
+    "GDP (nominal, 2023)": "$15,790,113,247",
+    "GDP (abbrev.)": "15.79 billion",
+    "GDP Growth": "3.8%",
+    "Population 2023": "31,195,932",
+    "GDP per capita": "$506",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "133",
+    "Country": "North Macedonia",
+    "GDP (nominal, 2023)": "$15,763,621,848",
+    "GDP (abbrev.)": "15.764 billion",
+    "GDP Growth": "2.07%",
+    "Population 2023": "1,831,802",
+    "GDP per capita": "$8,606",
+    "Share of World GDP": "0.015%"
+  },
+  {
+    "#": "134",
+    "Country": "Congo",
+    "GDP (nominal, 2023)": "$15,321,055,823",
+    "GDP (abbrev.)": "15.321 billion",
+    "GDP Growth": "1.91%",
+    "Population 2023": "6,182,885",
+    "GDP per capita": "$2,478",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "135",
+    "Country": "Brunei",
+    "GDP (nominal, 2023)": "$15,128,292,981",
+    "GDP (abbrev.)": "15.128 billion",
+    "GDP Growth": "1.41%",
+    "Population 2023": "458,949",
+    "GDP per capita": "$32,963",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "136",
+    "Country": "Mauritius",
+    "GDP (nominal, 2023)": "$14,644,524,819",
+    "GDP (abbrev.)": "14.645 billion",
+    "GDP Growth": "6.96%",
+    "Population 2023": "1,273,588",
+    "GDP per capita": "$11,499",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "137",
+    "Country": "Bahamas",
+    "GDP (nominal, 2023)": "$14,338,500,000",
+    "GDP (abbrev.)": "14.338 billion",
+    "GDP Growth": "2.64%",
+    "Population 2023": "399,440",
+    "GDP per capita": "$35,897",
+    "Share of World GDP": "0.014%"
+  },
+  {
+    "#": "138",
+    "Country": "Rwanda",
+    "GDP (nominal, 2023)": "$14,097,768,472",
+    "GDP (abbrev.)": "14.098 billion",
+    "GDP Growth": "8.24%",
+    "Population 2023": "13,954,471",
+    "GDP per capita": "$1,010",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "139",
+    "Country": "Kyrgyzstan",
+    "GDP (nominal, 2023)": "$13,987,627,909",
+    "GDP (abbrev.)": "13.988 billion",
+    "GDP Growth": "6.15%",
+    "Population 2023": "7,073,516",
+    "GDP per capita": "$1,977",
+    "Share of World GDP": "0.013%"
+  },
+  {
+    "#": "140",
+    "Country": "Chad",
+    "GDP (nominal, 2023)": "$13,149,325,362",
+    "GDP (abbrev.)": "13.149 billion",
+    "GDP Growth": "4.12%",
+    "Population 2023": "19,319,064",
+    "GDP per capita": "$681",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "141",
+    "Country": "Malawi",
+    "GDP (nominal, 2023)": "$12,712,150,082",
+    "GDP (abbrev.)": "12.712 billion",
+    "GDP Growth": "1.89%",
+    "Population 2023": "21,104,482",
+    "GDP per capita": "$602",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "142",
+    "Country": "Namibia",
+    "GDP (nominal, 2023)": "$12,351,025,067",
+    "GDP (abbrev.)": "12.351 billion",
+    "GDP Growth": "4.16%",
+    "Population 2023": "2,963,095",
+    "GDP per capita": "$4,168",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "143",
+    "Country": "Equatorial Guinea",
+    "GDP (nominal, 2023)": "$12,337,550,584",
+    "GDP (abbrev.)": "12.338 billion",
+    "GDP Growth": "−5.09%",
+    "Population 2023": "1,847,549",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.012%"
+  },
+  {
+    "#": "144",
+    "Country": "Tajikistan",
+    "GDP (nominal, 2023)": "$12,060,602,009",
+    "GDP (abbrev.)": "12.061 billion",
+    "GDP Growth": "8.3%",
+    "Population 2023": "10,389,799",
+    "GDP per capita": "$1,161",
+    "Share of World GDP": "0.011%"
+  },
+  {
+    "#": "145",
+    "Country": "Mauritania",
+    "GDP (nominal, 2023)": "$10,651,709,411",
+    "GDP (abbrev.)": "10.652 billion",
+    "GDP Growth": "6.51%",
+    "Population 2023": "5,022,441",
+    "GDP per capita": "$2,121",
+    "Share of World GDP": "0.010%"
+  },
+  {
+    "#": "146",
+    "Country": "Togo",
+    "GDP (nominal, 2023)": "$9,171,261,838",
+    "GDP (abbrev.)": "9.171 billion",
+    "GDP Growth": "6.41%",
+    "Population 2023": "9,304,337",
+    "GDP per capita": "$986",
+    "Share of World GDP": "0.0086%"
+  },
+  {
+    "#": "147",
+    "Country": "Montenegro",
+    "GDP (nominal, 2023)": "$7,530,593,375",
+    "GDP (abbrev.)": "7.531 billion",
+    "GDP Growth": "6.34%",
+    "Population 2023": "633,552",
+    "GDP per capita": "$11,886",
+    "Share of World GDP": "0.0071%"
+  },
+  {
+    "#": "148",
+    "Country": "Barbados",
+    "GDP (nominal, 2023)": "$6,720,733,200",
+    "GDP (abbrev.)": "6.721 billion",
+    "GDP Growth": "4.09%",
+    "Population 2023": "282,336",
+    "GDP per capita": "$23,804",
+    "Share of World GDP": "0.0063%"
+  },
+  {
+    "#": "149",
+    "Country": "Maldives",
+    "GDP (nominal, 2023)": "$6,590,894,302",
+    "GDP (abbrev.)": "6.591 billion",
+    "GDP Growth": "4.73%",
+    "Population 2023": "525,994",
+    "GDP per capita": "$12,530",
+    "Share of World GDP": "0.0062%"
+  },
+  {
+    "#": "150",
+    "Country": "Sierra Leone",
+    "GDP (nominal, 2023)": "$6,411,869,546",
+    "GDP (abbrev.)": "6.412 billion",
+    "GDP Growth": "5.71%",
+    "Population 2023": "8,460,512",
+    "GDP per capita": "$758",
+    "Share of World GDP": "0.0060%"
+  },
+  {
+    "#": "151",
+    "Country": "Fiji",
+    "GDP (nominal, 2023)": "$5,442,046,565",
+    "GDP (abbrev.)": "5.442 billion",
+    "GDP Growth": "7.52%",
+    "Population 2023": "924,145",
+    "GDP per capita": "$5,889",
+    "Share of World GDP": "0.0051%"
+  },
+  {
+    "#": "152",
+    "Country": "Eswatini",
+    "GDP (nominal, 2023)": "$4,442,875,788",
+    "GDP (abbrev.)": "4.443 billion",
+    "GDP Growth": "5.01%",
+    "Population 2023": "1,230,506",
+    "GDP per capita": "$3,611",
+    "Share of World GDP": "0.0042%"
+  },
+  {
+    "#": "153",
+    "Country": "Liberia",
+    "GDP (nominal, 2023)": "$4,240,000,000",
+    "GDP (abbrev.)": "4.24 billion",
+    "GDP Growth": "4.68%",
+    "Population 2023": "5,493,031",
+    "GDP per capita": "$772",
+    "Share of World GDP": "0.0040%"
+  },
+  {
+    "#": "154",
+    "Country": "Andorra",
+    "GDP (nominal, 2023)": "$3,785,067,332",
+    "GDP (abbrev.)": "3.785 billion",
+    "GDP Growth": "2.58%",
+    "Population 2023": "80,856",
+    "GDP per capita": "$46,812",
+    "Share of World GDP": "0.0036%"
+  },
+  {
+    "#": "155",
+    "Country": "Aruba",
+    "GDP (nominal, 2023)": "$3,648,573,136",
+    "GDP (abbrev.)": "3.649 billion",
+    "GDP Growth": "4.26%",
+    "Population 2023": "107,939",
+    "GDP per capita": "$33,802",
+    "Share of World GDP": "0.0034%"
+  },
+  {
+    "#": "156",
+    "Country": "Suriname",
+    "GDP (nominal, 2023)": "$3,455,146,281",
+    "GDP (abbrev.)": "3.455 billion",
+    "GDP Growth": "2.54%",
+    "Population 2023": "628,886",
+    "GDP per capita": "$5,494",
+    "Share of World GDP": "0.0033%"
+  },
+  {
+    "#": "157",
+    "Country": "Belize",
+    "GDP (nominal, 2023)": "$3,066,850,000",
+    "GDP (abbrev.)": "3.067 billion",
+    "GDP Growth": "1.15%",
+    "Population 2023": "411,106",
+    "GDP per capita": "$7,460",
+    "Share of World GDP": "0.0029%"
+  },
+  {
+    "#": "158",
+    "Country": "Burundi",
+    "GDP (nominal, 2023)": "$2,642,161,669",
+    "GDP (abbrev.)": "2.642 billion",
+    "GDP Growth": "2.7%",
+    "Population 2023": "13,689,450",
+    "GDP per capita": "$193",
+    "Share of World GDP": "0.0025%"
+  },
+  {
+    "#": "159",
+    "Country": "Central African Republic",
+    "GDP (nominal, 2023)": "$2,555,492,085",
+    "GDP (abbrev.)": "2.555 billion",
+    "GDP Growth": "0.87%",
+    "Population 2023": "5,152,421",
+    "GDP per capita": "$496",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "160",
+    "Country": "Cabo Verde",
+    "GDP (nominal, 2023)": "$2,533,819,406",
+    "GDP (abbrev.)": "2.534 billion",
+    "GDP Growth": "5.48%",
+    "Population 2023": "522,331",
+    "GDP per capita": "$4,851",
+    "Share of World GDP": "0.0024%"
+  },
+  {
+    "#": "161",
+    "Country": "Saint Lucia",
+    "GDP (nominal, 2023)": "$2,430,148,148",
+    "GDP (abbrev.)": "2.43 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "179,285",
+    "GDP per capita": "$13,555",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "162",
+    "Country": "Gambia",
+    "GDP (nominal, 2023)": "$2,396,111,022",
+    "GDP (abbrev.)": "2.396 billion",
+    "GDP Growth": "4.8%",
+    "Population 2023": "2,697,845",
+    "GDP per capita": "$888",
+    "Share of World GDP": "0.0023%"
+  },
+  {
+    "#": "163",
+    "Country": "Seychelles",
+    "GDP (nominal, 2023)": "$2,141,450,171",
+    "GDP (abbrev.)": "2.141 billion",
+    "GDP Growth": "3.16%",
+    "Population 2023": "127,951",
+    "GDP per capita": "$16,736",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "164",
+    "Country": "Lesotho",
+    "GDP (nominal, 2023)": "$2,117,962,451",
+    "GDP (abbrev.)": "2.118 billion",
+    "GDP Growth": "1.83%",
+    "Population 2023": "2,311,472",
+    "GDP per capita": "$916",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "165",
+    "Country": "Timor-Leste",
+    "GDP (nominal, 2023)": "$2,079,916,900",
+    "GDP (abbrev.)": "2.08 billion",
+    "GDP Growth": "−18.12%",
+    "Population 2023": "1,384,286",
+    "GDP per capita": "$1,503",
+    "Share of World GDP": "0.0020%"
+  },
+  {
+    "#": "166",
+    "Country": "Guinea-Bissau",
+    "GDP (nominal, 2023)": "$2,048,348,108",
+    "GDP (abbrev.)": "2.048 billion",
+    "GDP Growth": "5.2%",
+    "Population 2023": "2,153,339",
+    "GDP per capita": "$951",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "167",
+    "Country": "Antigua and Barbuda",
+    "GDP (nominal, 2023)": "$2,033,085,185",
+    "GDP (abbrev.)": "2.033 billion",
+    "GDP Growth": "3.86%",
+    "Population 2023": "93,316",
+    "GDP per capita": "$21,787",
+    "Share of World GDP": "0.0019%"
+  },
+  {
+    "#": "168",
+    "Country": "Solomon Islands",
+    "GDP (nominal, 2023)": "$1,633,319,401",
+    "GDP (abbrev.)": "1.633 billion",
+    "GDP Growth": "3.08%",
+    "Population 2023": "800,005",
+    "GDP per capita": "$2,042",
+    "Share of World GDP": "0.0015%"
+  },
+  {
+    "#": "169",
+    "Country": "Comoros",
+    "GDP (nominal, 2023)": "$1,352,380,971",
+    "GDP (abbrev.)": "1.352 billion",
+    "GDP Growth": "3%",
+    "Population 2023": "850,387",
+    "GDP per capita": "$1,590",
+    "Share of World GDP": "0.0013%"
+  },
+  {
+    "#": "170",
+    "Country": "Grenada",
+    "GDP (nominal, 2023)": "$1,316,733,333",
+    "GDP (abbrev.)": "1.317 billion",
+    "GDP Growth": "3.57%",
+    "Population 2023": "117,081",
+    "GDP per capita": "$11,246",
+    "Share of World GDP": "0.0012%"
+  },
+  {
+    "#": "171",
+    "Country": "Vanuatu",
+    "GDP (nominal, 2023)": "$1,126,313,359",
+    "GDP (abbrev.)": "1.126 billion",
+    "GDP Growth": "2.21%",
+    "Population 2023": "320,409",
+    "GDP per capita": "$3,515",
+    "Share of World GDP": "0.0011%"
+  },
+  {
+    "#": "172",
+    "Country": "St. Vincent & Grenadines",
+    "GDP (nominal, 2023)": "$1,065,962,963",
+    "GDP (abbrev.)": "1.066 billion",
+    "GDP Growth": "6.02%",
+    "Population 2023": "101,323",
+    "GDP per capita": "$10,520",
+    "Share of World GDP": "0.0010%"
+  },
+  {
+    "#": "173",
+    "Country": "Saint Kitts & Nevis",
+    "GDP (nominal, 2023)": "$1,055,499,778",
+    "GDP (abbrev.)": "1.055 billion",
+    "GDP Growth": "2.28%",
+    "Population 2023": "46,758",
+    "GDP per capita": "$22,574",
+    "Share of World GDP": "0.00099%"
+  },
+  {
+    "#": "174",
+    "Country": "Samoa",
+    "GDP (nominal, 2023)": "$938,189,444",
+    "GDP (abbrev.)": "938.189 million",
+    "GDP Growth": "8.58%",
+    "Population 2023": "216,663",
+    "GDP per capita": "$4,330",
+    "Share of World GDP": "0.00088%"
+  },
+  {
+    "#": "175",
+    "Country": "Sao Tome & Principe",
+    "GDP (nominal, 2023)": "$678,976,265",
+    "GDP (abbrev.)": "678.976 million",
+    "GDP Growth": "0.37%",
+    "Population 2023": "230,871",
+    "GDP per capita": "$2,941",
+    "Share of World GDP": "0.00064%"
+  },
+  {
+    "#": "176",
+    "Country": "Dominica",
+    "GDP (nominal, 2023)": "$653,992,593",
+    "GDP (abbrev.)": "653.993 million",
+    "GDP Growth": "4.71%",
+    "Population 2023": "66,510",
+    "GDP per capita": "$9,833",
+    "Share of World GDP": "0.00062%"
+  },
+  {
+    "#": "177",
+    "Country": "Micronesia",
+    "GDP (nominal, 2023)": "$460,000,000",
+    "GDP (abbrev.)": "460 million",
+    "GDP Growth": "0.78%",
+    "Population 2023": "112,630",
+    "GDP per capita": "$4,084",
+    "Share of World GDP": "0.00043%"
+  },
+  {
+    "#": "178",
+    "Country": "Palau",
+    "GDP (nominal, 2023)": "$281,849,063",
+    "GDP (abbrev.)": "281.849 million",
+    "GDP Growth": "1.88%",
+    "Population 2023": "17,727",
+    "GDP per capita": "$15,899",
+    "Share of World GDP": "0.00027%"
+  },
+  {
+    "#": "179",
+    "Country": "Kiribati",
+    "GDP (nominal, 2023)": "$279,208,903",
+    "GDP (abbrev.)": "279.209 million",
+    "GDP Growth": "4.12%",
+    "Population 2023": "132,530",
+    "GDP per capita": "$2,107",
+    "Share of World GDP": "0.00026%"
+  },
+  {
+    "#": "180",
+    "Country": "Marshall Islands",
+    "GDP (nominal, 2023)": "$259,300,000",
+    "GDP (abbrev.)": "259.3 million",
+    "GDP Growth": "−3.93%",
+    "Population 2023": "38,827",
+    "GDP per capita": "$6,678",
+    "Share of World GDP": "0.00024%"
+  },
+  {
+    "#": "181",
+    "Country": "Tuvalu",
+    "GDP (nominal, 2023)": "$62,280,312",
+    "GDP (abbrev.)": "62.28 million",
+    "GDP Growth": "3.85%",
+    "Population 2023": "9,816",
+    "GDP per capita": "$6,345",
+    "Share of World GDP": "0.000059%"
+  }
+]
