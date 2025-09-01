@@ -1,24 +1,45 @@
 import asyncio
 from playwright.async_api import async_playwright
+import json
 
 async def main():
+    #Primer se inicia playwright
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless = False)
+        
+        #Abrir el navegador 
+        browser = await p.chromium.launch(headless=False) #True para no ver la ventana   
         page = await browser.new_page()
+        
+        # Ir a la pagina web
         await page.goto("https://www.worldometers.info/world-population/population-by-country/")
-        await page.wait_for_load_state("networkidle")
         
-        #Espera a que la tabla este visible, esto para las paginas que sean dinamicas
-        await page.wait_for_selector('body > div > div.container.min-h-\[500px\].grow.py-4 > div.prose.max-w-none.text-sm\/5.md\:text-base\/6.prose-table\:text-sm\/5.md\:prose-table\:text-base\/6.prose-headings\:font-medium.prose-headings\:mt-10.prose-h1\:text-4xl.prose-h1\:font-medium.prose-h1\:mb-8.prose-h2\:text-3xl.prose-h3\:text-2xl.prose-tr\:border-0.prose-thead\:border-0.prose-img\:mb-0.prose-a\:font-inherit.prose-li\:my-0\.5 > div:nth-child(3) > div')
+        #Extraer informacion
+        titulo = await page.title()
+        print ("El titulo es :", titulo)
         
-        #Localizamos todas las filas de las tablas, incluyendo las cabeceras
+        # elemento = await page.text_content("p")
+        # print("el elemento es :", elemento)
         
-        rows = await page.locator("body > div > div.container.min-h-\[500px\].grow.py-4 > div.prose.max-w-none.text-sm\/5.md\:text-base\/6.prose-table\:text-sm\/5.md\:prose-table\:text-base\/6.prose-headings\:font-medium.prose-headings\:mt-10.prose-h1\:text-4xl.prose-h1\:font-medium.prose-h1\:mb-8.prose-h2\:text-3xl.prose-h3\:text-2xl.prose-tr\:border-0.prose-thead\:border-0.prose-img\:mb-0.prose-a\:font-inherit.prose-li\:my-0\.5 > div:nth-child(3) > div > div.datatable-container > table > thead > tr > th.px-2.border-e.border-zinc-200.align-middle.text-center.font-semibold.border-b-3.py-1.datatable-ascending").all()
+        #obtenemos los encabezados de la tabla
+        encabezados = await page.locator("table.datatable thead tr th").all_inner_texts()
         
-        all_data = []
+        #obtener las filas de la tabla  
+        filas =  page.locator("table.datatable tbody tr")
+        numero_filas = await filas.count()
         
-        print("Automatizacion exitosa")
+        datos = []
         
+        for i in range(numero_filas):
+            celdas = await filas.nth(i).locator("td").all_inner_texts()
+            fila_dic = dict(zip(encabezados,celdas))
+            datos.append(fila_dic)
+        
+        with open("population_by_world.json","w", encoding= "utf-8") as f:
+            json.dump(datos,f,ensure_ascii=False, indent=2)
+            
+        print("Datos guardados en Tabla.json")
+              
+        #Cerrar el navegador
         await browser.close()
-
+#ejecutar        
 asyncio.run(main())
