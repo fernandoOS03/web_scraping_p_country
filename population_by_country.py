@@ -1,6 +1,11 @@
 import asyncio
 from playwright.async_api import async_playwright
 import json
+from connection_to_sheet import sheet
+import time
+# class CLASS_NAME(TemplateView):
+#     template_name = "TEMPLATE_NAME"
+
 
 async def main():
     #Primer se inicia playwright
@@ -12,15 +17,7 @@ async def main():
         
         # Ir a la pagina web
         await page.goto("https://www.worldometers.info/world-population/population-by-country/")
-        
-        #Extraer informacion
-        # titulo = await page.title()
-        # print ("El titulo es :", titulo)
-        
-        # elemento = await page.text_content("p")
-        # print("el elemento es :", elemento)
-
-        #obtenemos los encabezados de la tabla
+    
         encabezados = await page.locator("table.datatable thead tr th").all_inner_texts()
         
         #obtener las filas de la tabla  
@@ -42,5 +39,14 @@ async def main():
         #Cerrar el navegador
         await browser.close()
         
+        sheet.clear()
+        sheet.append_row(encabezados)
+        for fila in datos:
+            sheet.append_row(list(fila.values()))
+            time.sleep(5)  # Pausa para evitar exceder el límite de solicitudes
+    
+        
 #ejecutar        
 asyncio.run(main())
+
+
