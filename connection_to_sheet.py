@@ -13,6 +13,9 @@ credetials = ServiceAccountCredentials.from_json_keyfile_name("credentials.json"
 cliente = gspread.authorize(credetials)
 
 sheet = cliente.open("population by country").sheet1
+sheet2 = cliente.open("population by country").worksheet("gdp by country")
+sheet3 = cliente.open("population by country").worksheet("retail_gators")
+
 
 # primera_fila = sheet.row_values(1)
 # primera_fila = sheet.row_values(1)

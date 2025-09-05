@@ -1,7 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
 import json
-
+from connection_to_sheet import sheet2
+import time
 
 async def main():
     #Inciamos playwright
@@ -34,5 +35,14 @@ async def main():
         print("Datos guardados como gdp_by_country.json")
         
         await browser.close()
+        
+        sheet2.clear()
+        sheet2.append_row(encabezados)
+        
+        for fila in datos:
+          sheet2.append_row(list(fila.values()))
+          time.sleep(3)  # Pausa para evitar exceder el límite de solicitudes
+        
+        
 
 asyncio.run(main())
